@@ -1,6 +1,6 @@
 # Discount Calculator
 
-Discount Calculator is a Scala program designed to process orders from a CSV file, calculate discounts based on various criteria, and save the processed orders to both a database and a CSV file. This README provides an overview of the program's functions and usage instructions.
+Discount Calculator is a Scala program designed to process orders from a CSV file, calculate discounts based on various rules, and save the processed orders to both a database and a CSV file. This README provides an overview of the program's functions and usage instructions.
 
 ## Functions
 
@@ -10,7 +10,7 @@ The code is organized into functions for improved readability, maintainability, 
 
 ### Discount Calculation
 
-Discounts are calculated based on the following criteria:
+Discounts are calculated based on the following rules:
 
 - **Days to Expiry**: Orders with fewer than or equal to 29 days remaining are eligible for a discount.
 - **Product Category**: Orders containing products categorized as "Cheese" or "Wine" receive specific discounts.
