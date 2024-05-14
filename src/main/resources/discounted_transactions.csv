@@ -1,0 +1,1001 @@
+order_date, expiry_date, days_to_expiry, product_category, product_name, quantity, unit_price, channel, payment_method, discount, final_price
+2023-04-18, 2023-06-10, 53, Wine, White Pinot Grigio, 6, 122.47, Store, Visa, 0.05, 698.0790
+2023-04-09, 2023-05-22, 43, Pepper, Red Thai, 5, 23.18, Store, Cash, 0, 115.90
+2023-05-09, 2023-08-04, 87, Wine, Chardonnay Mondavi, 7, 189.74, Store, Cash, 0.05, 1261.7710
+2023-04-09, 2023-05-23, 44, Unknown, External Supplier, 14, 9.92, App, Visa, 0.11, 123.6032
+2023-03-27, 2023-05-28, 62, Beans, Black Bean Preserved, 13, 145.85, Store, Cash, 0.035, 1829.68825
+2023-04-27, 2023-07-18, 82, Beef, Inside Round, 9, 247.62, Store, Visa, 0.05, 2117.1510
+2023-05-02, 2023-05-28, 26, Bread, Calabrese Baguette, 1, 111.21, Store, Visa, 0.075, 102.86925
+2023-03-17, 2023-05-05, 49, Zucchini, Mini Green, 15, 146.75, Store, Visa, 0.025, 2146.21875
+2023-03-22, 2023-04-08, 17, Eggs, Extra Large, 16, 48.05, App, Visa, 0.15, 653.4800
+2023-05-11, 2023-07-20, 70, Pork, Liver, 17, 191.13, Store, Visa, 0.075, 3005.51925
+2023-04-04, 2023-06-08, 65, Unknown, Sesame Seed, 4, 62.69, Store, Cash, 0, 250.76
+2023-04-14, 2023-05-23, 39, Tuna, Yellowfin, 9, 183.3, Store, Cash, 0.025, 1608.4575
+2023-04-23, 2023-05-12, 19, Wine, Magnotta - Belpaese, 9, 101.36, Store, Cash, 0.075, 843.82200
+2023-04-26, 2023-07-20, 85, Unknown, Bar Bran Honey Nut, 15, 13.21, Store, Cash, 0, 198.15
+2023-04-23, 2023-07-11, 79, Cake, French Pear Tart, 12, 215.63, Store, Cash, 0.035, 2496.99540
+2023-04-24, 2023-07-19, 86, Carbonated Water, Wildberry, 2, 19.31, Store, Cash, 0, 38.62
+2023-04-06, 2023-06-18, 73, Pork, Ham Virginia, 14, 208.26, Store, Cash, 0.035, 2813.59260
+2023-04-30, 2023-06-01, 32, Wine, Prosecco Valdobienne, 15, 221.11, Store, Visa, 0.05, 3150.8175
+2023-04-23, 2023-06-13, 51, Lettuce, Boston Bib - Organic, 6, 96.43, Store, Visa, 0.05, 549.6510
+2023-04-05, 2023-04-10, 5, Wine, Marlbourough Sauv Blanc, 4, 233.83, App, Visa, 0.05, 888.5540
+2023-04-13, 2023-05-28, 45, Longos, Chicken Cordon Bleu, 16, 193.04, Store, Cash, 0.05, 2934.2080
+2023-04-19, 2023-06-06, 48, Unknown, Beef Striploin Aaa, 9, 81.77, Store, Cash, 0.025, 717.53175
+2023-04-29, 2023-05-15, 16, Sauce, Oyster, 2, 69.06, App, Visa, 0.075, 127.76100
+2023-04-03, 2023-05-29, 56, Barley, Pearl, 3, 94.98, App, Visa, 0.05, 270.6930
+2023-05-09, 2023-06-20, 42, Unknown, Cheese Cloth No 60, 16, 49.41, App, Visa, 0.15, 671.9760
+2023-03-25, 2023-06-17, 84, Cut Wakame, Hanawakaba, 16, 190.34, Store, Cash, 0.05, 2893.1680
+2023-05-12, 2023-05-20, 8, Unknown, Kolrabi, 14, 29.13, App, Visa, 0.115, 360.92070
+2023-05-03, 2023-05-31, 28, Coffee, Espresso, 12, 61.91, App, Visa, 0.125, 650.05500
+2023-04-29, 2023-04-30, 1, Beef, Kindney Whole, 14, 7.41, Store, Visa, 0.06, 97.5156
+2023-05-10, 2023-07-03, 54, Honey, Comb, 3, 97.54, Store, Visa, 0.025, 285.30450
+2023-04-19, 2023-04-24, 5, Unknown, Soup Campbells Turkey Veg., 1, 1.86, Store, Cash, 0.025, 1.81350
+2023-04-15, 2023-04-19, 4, Syrup, Monin - Blue Curacao, 9, 62.85, Store, Visa, 0.05, 537.3675
+2023-04-21, 2023-07-15, 85, Coffee Beans, Chocolate, 15, 29.33, Store, Cash, 0, 439.95
+2023-04-13, 2023-05-29, 46, Wine, Vidal Icewine Magnotta, 17, 220.37, App, Visa, 0.15, 3184.3465
+2023-03-29, 2023-06-18, 81, Island Oasis, Peach Daiquiri, 16, 128.13, Store, Visa, 0.075, 1896.32400
+2023-04-04, 2023-07-01, 88, Unknown, Lychee, 4, 16.08, Store, Cash, 0, 64.32
+2023-03-17, 2023-04-16, 30, Unknown, Contreau, 11, 222.63, App, Visa, 0.11, 2179.5477
+2023-04-08, 2023-04-27, 19, Cheese, Taleggio D.o.p., 1, 205.18, Store, Visa, 0.1, 184.662
+2023-03-30, 2023-05-01, 32, Unknown, Persimmons, 14, 80.81, Store, Cash, 0.035, 1091.74310
+2023-03-29, 2023-05-02, 34, Towels, Paper / Kraft, 7, 17.24, Store, Cash, 0.025, 117.66300
+2023-03-27, 2023-06-08, 73, Pastry, Cheese Baked Scones, 11, 232.08, App, Visa, 0.11, 2272.0632
+2023-04-07, 2023-07-01, 85, Honey, Liquid, 16, 103.96, Store, Cash, 0.05, 1580.1920
+2023-04-09, 2023-06-30, 82, Veal, Bones, 14, 48.36, App, Visa, 0.11, 602.5656
+2023-04-08, 2023-04-15, 7, Unknown, Beets, 16, 108.46, Store, Cash, 0.085, 1587.85440
+2023-04-25, 2023-06-05, 41, Wine, Saint Emilion Calvet, 5, 31.56, App, Visa, 0.05, 149.9100
+2023-04-13, 2023-06-23, 71, Coffee, Ristretto Coffee Capsule, 12, 234, Store, Visa, 0.06, 2639.52
+2023-03-21, 2023-04-08, 18, Beef, Tenderlion Center Cut, 7, 245.12, Store, Visa, 0.075, 1587.15200
+2023-04-12, 2023-07-08, 87, Unknown, Pails With Lids, 5, 156.56, App, Visa, 0.05, 743.6600
+2023-04-22, 2023-05-26, 34, Wine, Cousino Macul Antiguas, 1, 78.82, Store, Visa, 0.05, 74.8790
+2023-03-25, 2023-06-20, 87, Puree, Mango, 7, 236.95, Store, Cash, 0.025, 1617.18375
+2023-04-15, 2023-06-13, 59, Soup, Campbells Chili, 3, 167.22, Store, Cash, 0, 501.66
+2023-04-02, 2023-05-11, 39, Unknown, Table Cloth 91x91 Colour, 1, 132.54, App, Visa, 0.05, 125.9130
+2023-05-01, 2023-07-17, 77, Unknown, Apron, 6, 139.54, Store, Cash, 0.025, 816.30900
+2023-04-17, 2023-07-04, 78, Chocolate, Mi - Amere Semi, 6, 227.37, App, Visa, 0.075, 1261.90350
+2023-04-05, 2023-05-31, 56, Tomatoes, Plum Canned, 10, 68.25, Store, Cash, 0.035, 658.61250
+2023-04-14, 2023-07-08, 85, Oysters, Smoked, 15, 66.86, App, Visa, 0.10, 902.6100
+2023-04-19, 2023-05-07, 18, Pork, Chop Frenched, 2, 154.51, Store, Cash, 0.05, 293.5690
+2023-05-10, 2023-05-16, 6, Pastry, Baked Cinnamon Stick, 12, 64.08, App, Visa, 0.11, 684.3744
+2023-04-03, 2023-04-18, 15, Unknown, Bread Foccacia Whole, 1, 198.9, App, Visa, 0.075, 183.9825
+2023-04-07, 2023-06-16, 70, Tuna, Loin, 7, 26.01, App, Visa, 0.075, 168.41475
+2023-04-02, 2023-04-27, 25, Unknown, Corn Syrup, 8, 124.55, App, Visa, 0.1, 896.760
+2023-05-05, 2023-05-06, 1, Wine, Bouchard La Vignee Pinot, 5, 202.72, App, Visa, 0.05, 962.9200
+2023-04-20, 2023-06-12, 53, Lamb, Pieces Diced, 5, 85.41, Store, Cash, 0, 427.05
+2023-04-08, 2023-04-10, 2, Unknown, Cocoa Butter, 3, 149.72, App, Visa, 0.05, 426.7020
+2023-03-30, 2023-05-12, 43, Juice, Apple 284ml, 2, 24.63, Store, Cash, 0, 49.26
+2023-04-03, 2023-06-25, 83, Tomato, Plum With Basil, 3, 71.15, Store, Cash, 0, 213.45
+2023-04-18, 2023-06-12, 55, Wine, Magnotta White, 4, 136.58, Store, Cash, 0.025, 532.66200
+2023-04-01, 2023-05-10, 39, Veal, Knuckle, 10, 186.71, Store, Cash, 0.035, 1801.75150
+2023-04-12, 2023-04-28, 16, Sugar, Brown, 13, 218.79, App, Visa, 0.125, 2488.73625
+2023-04-03, 2023-05-29, 56, Mix, Cocktail Ice Cream, 15, 94.51, Store, Cash, 0, 1417.65
+2023-04-11, 2023-04-17, 6, Bread Base, Gold Formel, 6, 83.09, App, Visa, 0.08, 458.6568
+2023-04-25, 2023-06-09, 45, Salmon, Whole 4 - 6 Pounds, 9, 188.02, Store, Cash, 0.025, 1649.87550
+2023-04-27, 2023-06-26, 60, Lettuce, Radicchio, 12, 227.89, Store, Cash, 0.035, 2638.96620
+2023-03-21, 2023-06-06, 77, Wood Chips, Regular, 17, 191.65, App, Visa, 0.15, 2769.3425
+2023-04-04, 2023-06-01, 58, Unknown, Pails With Lids, 1, 88.1, App, Visa, 0.05, 83.695
+2023-04-29, 2023-05-28, 29, Unknown, Strawberries, 2, 148.88, App, Visa, 0.075, 275.42800
+2023-05-01, 2023-05-10, 9, Bread, Pita, 2, 130.58, Store, Cash, 0.045, 249.40780
+2023-04-12, 2023-05-01, 19, Unknown, Hand Towel, 12, 219.89, Store, Cash, 0.085, 2414.39220
+2023-04-12, 2023-05-30, 48, Ice Cream, Chocolate, 6, 175.97, App, Visa, 0.075, 976.63350
+2023-04-16, 2023-04-17, 1, Lid, 16 Oz And 32 Oz, 10, 105.73, Store, Cash, 0.04, 1015.0080
+2023-03-17, 2023-03-22, 5, Unknown, Mayonnaise, 12, 100.57, Store, Cash, 0.06, 1134.4296
+2023-04-06, 2023-06-26, 81, Unknown, Tarts Assorted, 3, 172.63, Store, Visa, 0.025, 504.94275
+2023-05-04, 2023-06-13, 40, Butter, Salted, 14, 105.08, Store, Cash, 0.035, 1419.63080
+2023-03-27, 2023-05-28, 62, Unknown, Amaretto, 13, 6.89, Store, Cash, 0.035, 86.43505
+2023-04-03, 2023-06-21, 79, Bread, White Mini Epi, 17, 21.35, Store, Cash, 0.05, 344.8025
+2023-04-12, 2023-06-13, 62, Lamb, Bones, 16, 111.07, App, Visa, 0.15, 1510.5520
+2023-04-26, 2023-06-23, 58, Bagelers, Cinn / Brown Sugar, 12, 210.78, Store, Cash, 0.035, 2440.83240
+2023-05-04, 2023-05-28, 24, Soup, Campbells Beef Barley, 17, 206.53, Store, Visa, 0.1, 3159.909
+2023-03-24, 2023-06-02, 70, Pasta, Fettuccine Egg Fresh, 6, 166.99, Store, Cash, 0.025, 976.89150
+2023-05-03, 2023-07-14, 72, Nut, Almond Blanched Whole, 9, 53.84, Store, Cash, 0.025, 472.44600
+2023-03-17, 2023-03-23, 6, Wine, White Schroder And Schyl, 13, 165.67, Store, Cash, 0.065, 2013.71885
+2023-05-02, 2023-05-11, 9, Soup, Knorr Chicken Gumbo, 3, 236.76, Store, Cash, 0.045, 678.31740
+2023-04-26, 2023-04-27, 1, Wine, Red Colio Cabernet, 14, 150.82, Store, Visa, 0.06, 1984.7912
+2023-05-02, 2023-05-29, 27, Thyme, Lemon Fresh, 14, 88.35, Store, Cash, 0.085, 1131.76350
+2023-03-13, 2023-04-13, 31, Honey, Lavender, 1, 11.79, App, Visa, 0.05, 11.2005
+2023-05-05, 2023-05-10, 5, Cake, Bande Of Fruit, 11, 43.91, App, Visa, 0.11, 429.8789
+2023-04-08, 2023-04-26, 18, Veal, Insides Provini, 11, 40.81, App, Visa, 0.125, 392.79625
+2023-03-20, 2023-03-25, 5, Cheese, Taleggio D.o.p., 10, 194.85, Store, Visa, 0.085, 1782.87750
+2023-04-20, 2023-07-03, 74, Unknown, Table Cloth 54x54 Colour, 15, 186.31, Store, Cash, 0, 2794.65
+2023-03-18, 2023-05-03, 46, Nut, Walnut Chopped, 14, 180.3, App, Visa, 0.11, 2246.538
+2023-04-26, 2023-06-17, 52, Turkey, Whole Fresh, 17, 138.43, Store, Cash, 0.05, 2235.6445
+2023-04-12, 2023-07-02, 81, Ocean Spray, Ruby Red, 5, 148.87, Store, Cash, 0, 744.35
+2023-04-24, 2023-06-05, 42, Nantucket, Orange Mango Cktl, 6, 161.12, Store, Cash, 0.025, 942.55200
+2023-04-12, 2023-05-21, 39, Flower, Carnations, 6, 229.61, Store, Cash, 0.025, 1343.21850
+2023-04-29, 2023-06-30, 62, Tequila, Sauza Silver, 3, 24.27, Store, Cash, 0, 72.81
+2023-04-17, 2023-05-21, 34, Soup, Base Broth Beef, 14, 55.81, Store, Visa, 0.06, 734.4596
+2023-05-04, 2023-05-24, 20, Unknown, Mikes Hard Lemonade, 5, 62.32, Store, Cash, 0.05, 296.0200
+2023-03-31, 2023-06-01, 62, Pasta, Lasagna Dry, 12, 8.24, Store, Visa, 0.06, 92.9472
+2023-04-06, 2023-06-19, 74, Ginsing, Fresh, 9, 92.93, Store, Visa, 0.05, 794.5515
+2023-05-03, 2023-07-27, 85, Capon, Breast Wing On, 9, 171.96, App, Visa, 0.075, 1431.56700
+2023-05-07, 2023-07-30, 84, Chocolate, Semi Sweet Calets, 15, 197.52, Store, Cash, 0, 2962.80
+2023-03-20, 2023-06-16, 88, Tray, 16in Rnd Blk, 12, 7.88, App, Visa, 0.11, 84.1584
+2023-05-08, 2023-05-31, 23, Coffee, Frthy Coffee Crisp, 16, 22.75, App, Visa, 0.15, 309.4000
+2023-05-04, 2023-05-20, 16, Schnappes Peppermint, Walker, 6, 19.59, App, Visa, 0.1, 105.786
+2023-03-20, 2023-04-19, 30, Wine, White Lindemans Bin 95, 9, 182.21, Store, Cash, 0.05, 1557.8955
+2023-05-08, 2023-07-15, 68, Unknown, Coffee Cup 12oz 5342cd, 10, 130.1, App, Visa, 0.085, 1190.4150
+2023-03-21, 2023-06-05, 76, Paper, Brown Paper Mini Cups, 6, 5.63, Store, Cash, 0.025, 32.93550
+2023-04-30, 2023-07-17, 78, Coffee, Frthy Coffee Crisp, 15, 177.35, Store, Cash, 0, 2660.25
+2023-05-03, 2023-05-20, 17, Tea, Orange Pekoe, 1, 71.36, App, Visa, 0.075, 66.00800
+2023-05-02, 2023-06-29, 58, Muffin Mix, Raisin Bran, 11, 171.22, App, Visa, 0.11, 1676.2438
+2023-03-23, 2023-06-14, 83, Unknown, Jack Daniels, 17, 210.22, Store, Cash, 0.3, 2501.618
+2023-04-22, 2023-07-05, 74, Beef, Ground Medium, 14, 174.09, App, Visa, 0.11, 2169.1614
+2023-04-25, 2023-05-03, 8, Unknown, Onion Powder, 15, 136.9, Store, Cash, 0.04, 1971.360
+2023-04-02, 2023-06-28, 87, Tomatoes, Grape, 13, 164.11, App, Visa, 0.11, 1898.7527
+2023-03-22, 2023-06-07, 77, Wine, Chenin Blanc K.w.v., 11, 184.55, App, Visa, 0.11, 1806.7445
+2023-04-04, 2023-04-28, 24, Quail, Eggs Fresh, 13, 222.23, Store, Cash, 0.085, 2643.42585
+2023-04-16, 2023-05-12, 26, Bread, Pumpernickel, 11, 182.41, Store, Cash, 0.085, 1835.95665
+2023-03-16, 2023-06-06, 82, Apples, Spartan, 6, 127.75, Store, Visa, 0.05, 728.1750
+2023-04-05, 2023-06-10, 66, Snails, Large Canned, 8, 158.15, Store, Visa, 0.05, 1201.9400
+2023-03-13, 2023-04-18, 36, Eggplant, Baby, 3, 241.88, App, Visa, 0.05, 689.3580
+2023-04-13, 2023-05-10, 27, Wine, Rioja Campo Viejo, 15, 165.9, App, Visa, 0.125, 2177.4375
+2023-04-20, 2023-04-25, 5, Wine, Rosso Toscano Igt, 1, 188.66, App, Visa, 0.05, 179.2270
+2023-04-06, 2023-04-08, 2, Wine, Blue Nun Qualitatswein, 7, 228.35, Store, Cash, 0.05, 1518.5275
+2023-04-11, 2023-07-07, 87, Unknown, Ecolab Crystal Fusion, 5, 90.56, App, Visa, 0.05, 430.1600
+2023-04-24, 2023-07-23, 90, Unknown, Ecolab Crystal Fusion, 9, 92.27, Store, Cash, 0.025, 809.66925
+2023-03-28, 2023-05-02, 35, Sauce, White Mix, 13, 194.21, App, Visa, 0.11, 2247.0097
+2023-04-15, 2023-06-11, 57, Unknown, Lobak, 15, 91.02, Store, Visa, 0.025, 1331.16750
+2023-04-09, 2023-04-11, 2, Pasta, Shells Medium Dry, 3, 212.35, App, Visa, 0.05, 605.1975
+2023-05-10, 2023-06-03, 24, Unknown, Tomatoes Tear Drop Yellow, 13, 45.47, Store, Visa, 0.085, 540.86565
+2023-05-05, 2023-07-27, 83, Melon, Honey Dew, 12, 167.18, Store, Cash, 0.035, 1935.94440
+2023-03-23, 2023-04-25, 33, Unknown, Dried Cranberries, 16, 166.28, Store, Visa, 0.3, 1862.336
+2023-03-26, 2023-05-10, 45, Unknown, Bagels Poppyseed, 8, 80.83, App, Visa, 0.075, 598.14200
+2023-04-23, 2023-06-08, 46, Mushroom, Crimini, 15, 217.8, App, Visa, 0.10, 2940.300
+2023-04-28, 2023-06-16, 49, Spice, Peppercorn Melange, 7, 234.14, App, Visa, 0.075, 1516.05650
+2023-03-19, 2023-05-22, 64, Unknown, Fruit Salad Deluxe, 4, 148.25, Store, Visa, 0.025, 578.17500
+2023-03-25, 2023-04-07, 13, Unknown, Mountain Dew, 13, 62.12, Store, Cash, 0.085, 738.91740
+2023-03-19, 2023-04-12, 24, Unknown, Pur Value, 4, 9.19, App, Visa, 0.075, 34.00300
+2023-03-18, 2023-05-26, 69, Unknown, Remy Red Berry Infusion, 7, 38.18, App, Visa, 0.075, 247.21550
+2023-04-27, 2023-06-14, 48, Chestnuts, Wholecanned, 9, 38.44, App, Visa, 0.075, 320.01300
+2023-03-20, 2023-04-06, 17, Pork, Sausage Medium, 6, 233.63, Store, Cash, 0.075, 1296.64650
+2023-03-17, 2023-05-03, 47, Apple, Royal Gala, 10, 235, Store, Cash, 0.035, 2267.750
+2023-04-24, 2023-05-30, 36, Oil, Cooking Spray, 14, 83.2, App, Visa, 0.11, 1036.672
+2023-04-26, 2023-05-02, 6, Tuna, Bluefin, 5, 9.57, Store, Cash, 0.03, 46.4145
+2023-03-22, 2023-04-22, 31, Pepper, Green Thai, 1, 64.88, Store, Cash, 0, 64.88
+2023-05-06, 2023-07-29, 84, Mustard, Individual Pkg, 14, 161.8, Store, Cash, 0.035, 2185.9180
+2023-05-12, 2023-07-20, 69, Pepper, Julienne Frozen, 10, 135.67, App, Visa, 0.085, 1241.38050
+2023-04-25, 2023-05-03, 8, Hummus, Spread, 17, 135.48, Store, Cash, 0.09, 2095.8756
+2023-03-13, 2023-05-25, 73, Unknown, Absolut Citron, 9, 62.42, Store, Visa, 0.05, 533.6910
+2023-05-10, 2023-05-24, 14, Unknown, Salad Dressing, 6, 150.28, Store, Cash, 0.075, 834.05400
+2023-03-21, 2023-05-06, 46, Yogurt, Assorted Pack, 11, 64.81, App, Visa, 0.11, 634.4899
+2023-04-21, 2023-05-26, 35, Soap, Hand Soap, 6, 83.29, Store, Cash, 0.025, 487.24650
+2023-05-04, 2023-06-30, 57, Barley, Pearl, 2, 123.76, App, Visa, 0.05, 235.1440
+2023-04-20, 2023-06-25, 66, Appetizer, Sausage Rolls, 8, 75.13, Store, Cash, 0.025, 586.01400
+2023-03-16, 2023-03-31, 15, Unknown, Lemons, 17, 247.42, App, Visa, 0.15, 3575.2190
+2023-04-28, 2023-05-31, 33, Cake, Miini Cheesecake Cherry, 12, 127.02, Store, Cash, 0.035, 1470.89160
+2023-04-05, 2023-06-27, 83, Unknown, Table Cloth 72x144 White, 17, 229.19, Store, Visa, 0.075, 3604.01275
+2023-03-17, 2023-04-15, 29, Unknown, Sword Pick Asst, 1, 204.31, Store, Visa, 0.075, 188.98675
+2023-03-18, 2023-05-29, 72, Cake, Sheet Strawberry, 4, 72.27, Store, Cash, 0, 289.08
+2023-03-19, 2023-05-09, 51, Tuna, Sushi Grade, 14, 40.61, Store, Cash, 0.035, 548.64110
+2023-05-02, 2023-05-27, 25, Wine, Vovray Sec Domaine Huet, 4, 41.5, App, Visa, 0.075, 153.5500
+2023-03-21, 2023-04-21, 31, Unknown, Watercress, 14, 227.82, Store, Visa, 0.06, 2998.1112
+2023-03-29, 2023-06-07, 70, Unknown, V8 Splash Strawberry Banana, 13, 42.39, Store, Cash, 0.035, 531.78255
+2023-03-18, 2023-05-27, 70, Syrup, Monin - Blue Curacao, 10, 121.04, Store, Cash, 0.035, 1168.03600
+2023-05-04, 2023-05-06, 2, Sprouts, China Rose, 10, 58.63, Store, Cash, 0.045, 559.91650
+2023-03-19, 2023-04-19, 31, Pears, Bosc, 15, 46.72, App, Visa, 0.10, 630.7200
+2023-03-23, 2023-05-06, 44, Beef, Ox Tongue, 3, 152.52, Store, Cash, 0.25, 343.1700
+2023-04-10, 2023-05-16, 36, Unknown, Buttons, 5, 80.87, App, Visa, 0.05, 384.1325
+2023-03-23, 2023-05-18, 56, The Pop Shoppe, Root Beer, 15, 226.37, Store, Visa, 0.275, 2461.77375
+2023-03-30, 2023-04-14, 15, Pork, Ground, 1, 189.55, Store, Cash, 0.05, 180.0725
+2023-04-08, 2023-05-03, 25, Unknown, Wasabi Powder, 1, 24.63, App, Visa, 0.075, 22.78275
+2023-03-17, 2023-05-15, 59, Unknown, Milk 2% 500 Ml, 14, 229.53, App, Visa, 0.11, 2859.9438
+2023-03-23, 2023-04-05, 13, Flavouring, Orange, 14, 183.47, Store, Visa, 0.3, 1798.006
+2023-05-01, 2023-05-10, 9, Juice, Orange Concentrate, 11, 95.39, App, Visa, 0.12, 923.3752
+2023-03-15, 2023-04-23, 39, Bonito Flakes, Toku Katsuo, 12, 96.35, Store, Visa, 0.06, 1086.8280
+2023-04-19, 2023-05-19, 30, Bread, Bistro White, 15, 68.7, App, Visa, 0.10, 927.450
+2023-04-18, 2023-06-08, 51, Bread, English Muffin, 2, 11.09, App, Visa, 0.05, 21.0710
+2023-04-22, 2023-06-12, 51, Unknown, Nantuket Peach Orange, 9, 88.17, Store, Cash, 0.025, 773.69175
+2023-04-09, 2023-06-05, 57, Unknown, Currants, 11, 87, Store, Cash, 0.035, 923.505
+2023-04-19, 2023-07-05, 77, Wine, Red Gallo Merlot, 14, 171.66, Store, Cash, 0.06, 2259.0456
+2023-05-05, 2023-06-19, 45, Cheese, Camembert, 10, 62.27, App, Visa, 0.1, 560.430
+2023-04-27, 2023-06-21, 55, Container, Hngd Cll Blk 7x7x3, 17, 247.07, Store, Visa, 0.075, 3885.17575
+2023-04-04, 2023-05-09, 35, Tomatoes, Vine Ripe Red, 9, 197.06, App, Visa, 0.075, 1640.52450
+2023-04-14, 2023-06-15, 62, Unknown, Durian Fruit, 5, 246.05, App, Visa, 0.05, 1168.7375
+2023-03-23, 2023-06-01, 70, Veal, Shank Pieces, 15, 64, Store, Cash, 0.25, 720.00
+2023-04-23, 2023-05-17, 24, Container, Clear 32 Oz, 14, 201.77, Store, Visa, 0.085, 2584.67370
+2023-05-05, 2023-06-17, 43, Soup, Campbells - Chicken Noodle, 15, 126.29, App, Visa, 0.10, 1704.9150
+2023-05-01, 2023-07-06, 66, Rice, Aborio, 6, 16.2, Store, Cash, 0.025, 94.7700
+2023-03-16, 2023-06-04, 80, Wine, Fume Blanc Fetzer, 14, 93.19, App, Visa, 0.11, 1161.1474
+2023-04-21, 2023-07-11, 81, Beef, Salted, 1, 83.46, App, Visa, 0.05, 79.2870
+2023-04-09, 2023-05-05, 26, Pastry, French Mini Assorted, 6, 220.44, Store, Cash, 0.075, 1223.44200
+2023-05-11, 2023-08-05, 86, Liners, Baking Cups, 4, 1.45, App, Visa, 0.05, 5.5100
+2023-04-30, 2023-05-13, 13, Cookie, Oatmeal, 8, 67.93, App, Visa, 0.1, 489.096
+2023-04-09, 2023-05-20, 41, Pastry, Banana Tea Loaf, 7, 174.86, App, Visa, 0.075, 1132.21850
+2023-03-23, 2023-03-31, 8, Unknown, Broom And Brush Rack Black, 12, 236.64, Store, Visa, 0.29, 2016.1728
+2023-05-05, 2023-07-06, 62, Fish, Bones, 5, 194.87, Store, Cash, 0, 974.35
+2023-04-22, 2023-05-01, 9, Pie Shell, 5, 7, 182.98, Store, Visa, 0.07, 1191.1998
+2023-04-05, 2023-04-23, 18, Wine, White Colubia Cresh, 16, 142.82, App, Visa, 0.15, 1942.3520
+2023-04-30, 2023-05-08, 8, Unknown, Celery Root, 10, 6.28, App, Visa, 0.09, 57.1480
+2023-03-22, 2023-06-11, 81, Longos, Greek Salad, 8, 86.7, App, Visa, 0.075, 641.5800
+2023-03-13, 2023-03-19, 6, Puree, Raspberry, 16, 13.46, Store, Cash, 0.08, 198.1312
+2023-04-11, 2023-04-13, 2, Calvados, Boulard, 4, 228.68, App, Visa, 0.05, 868.9840
+2023-04-14, 2023-06-21, 68, Unknown, Scampi Tail, 14, 187.9, Store, Cash, 0.035, 2538.5290
+2023-04-20, 2023-05-15, 25, Island Oasis, Ice Cream Mix, 10, 123.17, App, Visa, 0.1, 1108.530
+2023-05-01, 2023-07-17, 77, Unknown, Plasticforkblack, 17, 162.91, Store, Cash, 0.05, 2630.9965
+2023-03-18, 2023-04-13, 26, Bread, 10 Grain Parisian, 3, 228.82, Store, Cash, 0.05, 652.1370
+2023-03-27, 2023-04-11, 15, Kale, Red, 4, 218.31, Store, Cash, 0.05, 829.5780
+2023-03-13, 2023-05-27, 75, Wine, Casillero Deldiablo, 7, 22.82, Store, Cash, 0.05, 151.7530
+2023-04-08, 2023-05-19, 41, Unknown, Maintenance Removal Charge, 16, 197.57, Store, Cash, 0.05, 3003.0640
+2023-03-18, 2023-04-18, 31, Tea, Mint, 13, 156.99, Store, Cash, 0.035, 1969.43955
+2023-04-22, 2023-05-03, 11, Cookie, Oreo 100x2, 16, 145.35, App, Visa, 0.15, 1976.7600
+2023-05-11, 2023-06-15, 35, Compound, Pear, 12, 16.86, Store, Cash, 0.035, 195.23880
+2023-04-09, 2023-06-24, 76, Unknown, The Pop Shoppe Pinapple, 15, 28.4, Store, Visa, 0.025, 415.3500
+2023-04-11, 2023-05-04, 23, Tarragon, Primerba Paste, 12, 4.44, Store, Visa, 0.085, 48.75120
+2023-04-24, 2023-05-19, 25, Straw, Regular, 13, 167.1, Store, Cash, 0.085, 1987.6545
+2023-03-22, 2023-04-28, 37, Mussels, Cultivated, 9, 155.12, Store, Visa, 0.05, 1326.2760
+2023-04-15, 2023-05-29, 44, Beef, Top Butt Aaa, 7, 75.8, App, Visa, 0.075, 490.8050
+2023-04-23, 2023-04-28, 5, Beer, Sleemans Honey Brown, 9, 195.62, Store, Visa, 0.05, 1672.5510
+2023-04-26, 2023-04-29, 3, Bread, Pumpernickle Rounds, 16, 30.8, Store, Cash, 0.065, 460.7680
+2023-04-08, 2023-06-09, 62, Cheese, Cheddar With Claret, 12, 171.33, Store, Cash, 0.085, 1881.20340
+2023-04-25, 2023-07-06, 72, Unknown, Orange Roughy 6/8 Oz, 3, 144.86, Store, Cash, 0, 434.58
+2023-05-11, 2023-06-19, 39, Unknown, Quiche Assorted, 13, 194.39, Store, Cash, 0.035, 2438.62255
+2023-05-09, 2023-07-27, 79, Cherries, Fresh, 9, 86.3, App, Visa, 0.075, 718.4475
+2023-04-01, 2023-05-24, 53, Appetizer, Cheese Bites, 6, 127.16, App, Visa, 0.075, 705.73800
+2023-04-05, 2023-07-04, 90, Wine, Barossa Valley Estate, 16, 166.47, Store, Visa, 0.075, 2463.75600
+2023-04-30, 2023-06-15, 46, Unknown, External Supplier, 10, 177.68, App, Visa, 0.085, 1625.77200
+2023-03-17, 2023-04-06, 20, Unknown, The Pop Shoppe Pinapple, 1, 62.58, App, Visa, 0.075, 57.88650
+2023-04-05, 2023-05-10, 35, Wine, Red Gallo Merlot, 15, 210.55, Store, Visa, 0.05, 3000.3375
+2023-03-20, 2023-05-06, 47, Beef, Top Butt Aaa, 3, 103.91, Store, Cash, 0, 311.73
+2023-04-12, 2023-04-28, 16, Unknown, Yoghurt Tubes, 3, 172.6, Store, Cash, 0.05, 491.910
+2023-04-24, 2023-07-23, 90, Fudge, Chocolate Fudge, 4, 9.43, Store, Visa, 0.025, 36.77700
+2023-04-15, 2023-06-11, 57, Pickles, Gherkins, 3, 187.3, Store, Cash, 0, 561.9
+2023-03-25, 2023-04-02, 8, Unknown, Chef Hat 25cm, 10, 126.81, Store, Visa, 0.075, 1172.99250
+2023-03-20, 2023-05-13, 54, Wheat, Soft Kernal Of Wheat, 4, 132.78, Store, Cash, 0, 531.12
+2023-03-25, 2023-06-02, 69, Soup, Campbells Chili Veg, 14, 88.34, Store, Cash, 0.035, 1193.47340
+2023-04-01, 2023-05-04, 33, Bread, Granary Small Pull, 13, 149.45, Store, Visa, 0.06, 1826.2790
+2023-03-26, 2023-06-05, 71, Unknown, Bananas, 13, 103.36, Store, Visa, 0.06, 1263.0592
+2023-04-01, 2023-05-16, 45, Glaze, Apricot, 16, 29.3, Store, Cash, 0.05, 445.360
+2023-04-02, 2023-06-20, 79, Wine, Taylors Reserve, 16, 51.5, Store, Visa, 0.075, 762.2000
+2023-03-31, 2023-05-09, 39, Cheese, Havarti Salsa, 7, 37.1, Store, Cash, 0.075, 240.2225
+2023-05-11, 2023-06-30, 50, Nori Sea Weed, Gold Label, 15, 217.08, App, Visa, 0.10, 2930.5800
+2023-03-23, 2023-05-01, 39, Unknown, Wine La Vielle Ferme Cote Du, 16, 179.99, Store, Cash, 0.3, 2015.888
+2023-04-22, 2023-06-05, 44, Coffee, Frthy Coffee Crisp, 11, 155.69, App, Visa, 0.11, 1524.2051
+2023-04-20, 2023-06-13, 54, Marjoram, Dried Rubbed, 2, 25.33, App, Visa, 0.05, 48.1270
+2023-05-09, 2023-05-19, 10, Unknown, The Pop Shoppe Pinapple, 16, 148.54, Store, Cash, 0.1, 2138.976
+2023-04-09, 2023-04-22, 13, Unknown, Crawfish, 11, 173.66, Store, Cash, 0.085, 1747.88790
+2023-04-06, 2023-06-22, 77, Pork, Bacon Double Smoked, 2, 108.18, Store, Visa, 0.025, 210.95100
+2023-05-08, 2023-06-09, 32, Beer, Upper Canada Light, 3, 137.12, App, Visa, 0.05, 390.7920
+2023-05-02, 2023-06-05, 34, Napkin, Beverge White 2 - Ply, 12, 133.32, App, Visa, 0.11, 1423.8576
+2023-03-13, 2023-05-23, 71, Wine, Vineland Estate Semi - Dry, 13, 154.59, Store, Visa, 0.06, 1889.0898
+2023-04-17, 2023-06-16, 60, Scrubbie, Scotchbrite Hand Pad, 9, 130.41, Store, Cash, 0.025, 1144.34775
+2023-04-03, 2023-05-04, 31, Unknown, Kellogs Raisan Bran Bars, 1, 49.13, Store, Visa, 0.025, 47.90175
+2023-04-29, 2023-05-14, 15, Wine, Rubyport, 10, 236.91, App, Visa, 0.1, 2132.190
+2023-03-15, 2023-03-24, 9, Unknown, Pumpkin, 7, 154.67, Store, Visa, 0.07, 1006.9017
+2023-05-11, 2023-06-23, 43, Brandy Cherry, Mcguinness, 10, 118.87, App, Visa, 0.085, 1087.66050
+2023-03-17, 2023-03-28, 11, Wine, Soave Folonari, 1, 123.96, Store, Cash, 0.075, 114.66300
+2023-04-11, 2023-06-13, 63, Tomatoes, Cherry, 6, 22.32, Store, Cash, 0.025, 130.57200
+2023-04-05, 2023-06-09, 65, Mousse, Banana Chocolate, 9, 194.32, App, Visa, 0.075, 1617.71400
+2023-03-13, 2023-03-31, 18, Cheese, Brick With Pepper, 1, 122.85, Store, Cash, 0.1, 110.565
+2023-04-03, 2023-05-14, 41, Flour, Chickpea, 4, 11.43, Store, Visa, 0.025, 44.57700
+2023-04-24, 2023-07-20, 87, Tart Shells, Savory 2, 8, 107.87, Store, Cash, 0.025, 841.38600
+2023-04-10, 2023-04-17, 7, Clams, Bay, 8, 225.63, App, Visa, 0.085, 1651.61160
+2023-05-06, 2023-06-14, 39, Honey, Comb, 13, 122.33, Store, Cash, 0.035, 1534.62985
+2023-04-27, 2023-07-20, 84, Thyme, Dried, 11, 189.65, Store, Cash, 0.035, 2013.13475
+2023-05-04, 2023-07-02, 59, Unknown, V8 Splash Strawberry Kiwi, 12, 222.58, Store, Cash, 0.035, 2577.47640
+2023-04-13, 2023-06-30, 78, Unknown, Jameson Irish Whiskey, 17, 100.98, App, Visa, 0.15, 1459.1610
+2023-04-05, 2023-05-12, 37, Lemonade, Pineapple Passion, 7, 59.74, Store, Cash, 0.025, 407.72550
+2023-03-16, 2023-04-11, 26, Coconut, Creamed Pure, 14, 179.51, App, Visa, 0.125, 2198.99750
+2023-05-04, 2023-07-08, 65, Pepper, Chillies Crushed, 14, 177.57, App, Visa, 0.11, 2212.5222
+2023-04-22, 2023-06-01, 40, Unknown, Petit Baguette, 2, 184.09, App, Visa, 0.05, 349.7710
+2023-03-23, 2023-04-19, 27, Juice, Apple 500 Ml, 1, 148.21, Store, Cash, 0.3, 103.747
+2023-04-02, 2023-05-06, 34, Onions, Spanish, 15, 147.93, Store, Cash, 0, 2218.95
+2023-03-16, 2023-04-12, 27, Wine, Carmenere Casillero Del, 3, 64.07, App, Visa, 0.075, 177.79425
+2023-05-10, 2023-06-08, 29, Chips Potato All Dressed, 43g, 16, 34.82, Store, Cash, 0.1, 501.408
+2023-04-30, 2023-07-19, 80, Unknown, Pastrami, 1, 153.31, Store, Cash, 0, 153.31
+2023-04-29, 2023-07-28, 90, Sobe, Green Tea, 6, 43.28, Store, Visa, 0.05, 246.6960
+2023-04-20, 2023-05-26, 36, Cheese, La Sauvagine, 15, 212, Store, Cash, 0.05, 3021.00
+2023-03-15, 2023-05-05, 51, Unknown, Jicama, 10, 236.23, Store, Cash, 0.035, 2279.61950
+2023-04-30, 2023-05-28, 28, Wine, Sicilia Igt Nero Avola, 4, 199.37, App, Visa, 0.075, 737.66900
+2023-03-13, 2023-05-09, 57, Ginger, Crystalized, 6, 112.72, Store, Cash, 0.025, 659.41200
+2023-04-28, 2023-06-05, 38, Blue Curacao, Marie Brizard, 13, 83.43, Store, Visa, 0.06, 1019.5146
+2023-05-05, 2023-06-06, 32, Pail, 15l White With Handle, 11, 232.62, Store, Visa, 0.06, 2405.2908
+2023-04-06, 2023-06-01, 56, Pork, Kidney, 17, 190.32, Store, Cash, 0.05, 3073.6680
+2023-04-01, 2023-06-16, 76, Table Cloth, 53x69 Colour, 3, 3.83, App, Visa, 0.05, 10.9155
+2023-04-05, 2023-06-04, 60, Ostrich, Prime Cut, 13, 39.62, App, Visa, 0.11, 458.4034
+2023-03-25, 2023-06-22, 89, Potatoes, Peeled, 3, 110.03, Store, Cash, 0, 330.09
+2023-03-27, 2023-05-17, 51, Fish, Artic Char Cold Smoked, 1, 135.58, Store, Visa, 0.025, 132.19050
+2023-04-10, 2023-05-24, 44, Oil, Canola, 12, 171.54, Store, Visa, 0.06, 1934.9712
+2023-04-28, 2023-06-18, 51, Bread, English Muffin, 7, 247, Store, Visa, 0.05, 1642.55
+2023-03-15, 2023-06-02, 79, Unknown, Table Cloth 120 Round White, 17, 114.51, App, Visa, 0.15, 1654.6695
+2023-05-03, 2023-07-16, 74, Unknown, Pork Ham Prager, 11, 38.62, App, Visa, 0.11, 378.0898
+2023-03-18, 2023-04-23, 36, Dc, Frozen Momji, 12, 228.91, App, Visa, 0.11, 2444.7588
+2023-04-06, 2023-05-14, 38, Yeast Dry, Fermipan, 3, 173.94, Store, Cash, 0, 521.82
+2023-04-29, 2023-07-28, 90, Veal Inside, Provimi, 11, 4.73, Store, Cash, 0.035, 50.20895
+2023-04-07, 2023-06-01, 55, Pepper, Chillies Crushed, 1, 70.85, App, Visa, 0.05, 67.3075
+2023-04-24, 2023-05-25, 31, Unknown, Chef Hat 20cm, 2, 25.15, Store, Visa, 0.025, 49.04250
+2023-05-08, 2023-07-28, 81, Oil, Olive Extra Virgin, 16, 24.09, App, Visa, 0.15, 327.6240
+2023-04-01, 2023-05-05, 34, Basil, Thai, 4, 237.09, Store, Visa, 0.025, 924.65100
+2023-04-08, 2023-06-12, 65, Fennel, Seeds, 6, 216.99, Store, Cash, 0.025, 1269.39150
+2023-04-12, 2023-04-27, 15, Gingerale, Schweppes 355 Ml, 3, 11.12, App, Visa, 0.075, 30.85800
+2023-03-14, 2023-05-06, 53, Duck, Whole, 17, 161.92, Store, Cash, 0.05, 2615.0080
+2023-04-23, 2023-05-03, 10, Truffle, Whole Black Peeled, 7, 200.92, Store, Visa, 0.075, 1300.95700
+2023-03-17, 2023-06-01, 76, Unknown, Lobak, 1, 123.8, Store, Cash, 0, 123.8
+2023-04-19, 2023-06-25, 67, Pasta, Linguini Dry, 8, 95.68, Store, Cash, 0.025, 746.30400
+2023-04-29, 2023-05-13, 14, Unknown, Plate Foam Laminated 9in Blk, 10, 214.18, Store, Cash, 0.085, 1959.74700
+2023-03-14, 2023-05-15, 62, Pasta, Penne Lisce Dry, 5, 83.36, Store, Cash, 0, 416.80
+2023-03-28, 2023-04-24, 27, Chocolate, Milk Callets, 3, 54.68, Store, Cash, 0.05, 155.8380
+2023-04-01, 2023-05-10, 39, Bagel, Ched Chs Presliced, 4, 143.13, Store, Cash, 0, 572.52
+2023-03-16, 2023-03-22, 6, Unknown, Horseradish Root, 14, 140.21, App, Visa, 0.11, 1747.0166
+2023-04-25, 2023-05-22, 27, Bamboo Shoots, Sliced, 17, 4.37, App, Visa, 0.15, 63.1465
+2023-05-04, 2023-08-02, 90, Sauce, Oyster, 1, 171.96, Store, Visa, 0.025, 167.66100
+2023-03-30, 2023-05-27, 58, Unknown, Cotton Wet Mop 16 Oz, 4, 206.75, Store, Cash, 0, 827.00
+2023-04-13, 2023-05-11, 28, Cheese, Marble, 11, 95.2, Store, Cash, 0.1, 942.48
+2023-04-11, 2023-05-04, 23, Wine, Cotes Du Rhone Parallele, 7, 249.5, App, Visa, 0.1, 1571.85
+2023-04-14, 2023-07-09, 86, Mop Head, Cotton 24 Oz, 15, 103.03, Store, Visa, 0.025, 1506.81375
+2023-04-24, 2023-07-15, 82, Unknown, Eggwhite Frozen, 14, 239.98, Store, Visa, 0.06, 3158.1368
+2023-04-08, 2023-05-24, 46, Truffle Cups, Brown, 5, 151.69, Store, Visa, 0.025, 739.48875
+2023-04-17, 2023-06-09, 53, Muskox, French Rack, 10, 61.34, App, Visa, 0.085, 561.26100
+2023-05-10, 2023-05-15, 5, Sprite Diet, 355ml, 17, 4.52, Store, Cash, 0.075, 71.07700
+2023-03-31, 2023-06-20, 81, Unknown, Burger Veggie, 10, 119.32, Store, Visa, 0.06, 1121.6080
+2023-04-25, 2023-06-22, 58, Food Colouring, Orange, 12, 110.22, App, Visa, 0.11, 1177.1496
+2023-04-09, 2023-05-30, 51, Truffle Cups, White Paper, 11, 191.82, App, Visa, 0.11, 1877.9178
+2023-05-04, 2023-07-01, 58, Ostrich, Prime Cut, 7, 249.79, App, Visa, 0.075, 1617.39025
+2023-04-04, 2023-06-24, 81, Sole, Iqf, 17, 235.06, App, Visa, 0.15, 3396.6170
+2023-05-06, 2023-06-14, 39, Muffin Batt, Carrot Spice, 3, 43.01, Store, Cash, 0, 129.03
+2023-03-18, 2023-04-29, 42, Pork, Chop Frenched, 11, 56.66, Store, Cash, 0.035, 601.44590
+2023-05-07, 2023-05-31, 24, Bread, Roll Whole Wheat, 9, 163.09, Store, Visa, 0.075, 1357.72425
+2023-04-02, 2023-05-17, 45, Island Oasis, Peach Daiquiri, 15, 199.42, Store, Visa, 0.025, 2916.51750
+2023-04-17, 2023-05-18, 31, Cheese, Gouda, 1, 214.08, App, Visa, 0.075, 198.02400
+2023-04-06, 2023-06-18, 73, Food Colouring, Green, 3, 244.82, App, Visa, 0.05, 697.7370
+2023-03-27, 2023-06-13, 78, Bread, White Sliced, 11, 3.7, App, Visa, 0.11, 36.223
+2023-05-01, 2023-07-20, 80, Parsley, Fresh, 12, 174.57, App, Visa, 0.11, 1864.4076
+2023-03-22, 2023-04-26, 35, Pop, Club Soda Can, 2, 199.86, Store, Cash, 0, 399.72
+2023-04-06, 2023-07-03, 88, Unknown, Muffin Hinge 117n, 3, 23.57, App, Visa, 0.05, 67.1745
+2023-03-31, 2023-05-10, 40, Unknown, Hipnotiq Liquor, 1, 132.92, Store, Visa, 0.025, 129.59700
+2023-03-18, 2023-04-14, 27, Jameson, Irish Whiskey, 10, 94.05, App, Visa, 0.1, 846.450
+2023-03-19, 2023-05-06, 48, Unknown, Peas Snow, 12, 201.55, Store, Cash, 0.035, 2333.94900
+2023-03-14, 2023-05-30, 77, Soup, Knorr Ministrone, 7, 166.86, App, Visa, 0.075, 1080.41850
+2023-04-26, 2023-07-25, 90, Unknown, Soup Campbells Split Pea And Ham, 6, 88.86, App, Visa, 0.075, 493.17300
+2023-03-17, 2023-06-15, 90, Beef, Ox Tongue, 9, 41.68, Store, Visa, 0.05, 356.3640
+2023-04-14, 2023-05-05, 21, Water, Aquafina Vitamin, 3, 173.65, Store, Cash, 0.05, 494.9025
+2023-05-12, 2023-06-22, 41, Unknown, Sesame Seed, 5, 227.34, Store, Visa, 0.025, 1108.28250
+2023-03-17, 2023-05-10, 54, Wine, Soave Folonari, 11, 158.85, Store, Visa, 0.06, 1642.5090
+2023-04-25, 2023-07-16, 82, Pork, Ham Hocks - Smoked, 6, 142.45, App, Visa, 0.075, 790.59750
+2023-03-31, 2023-06-02, 63, Cheese, Woolwich Goat Log, 15, 213.3, Store, Cash, 0.05, 3039.525
+2023-04-14, 2023-07-04, 81, Bread, Roll Calabrese, 11, 21.13, App, Visa, 0.11, 206.8627
+2023-03-27, 2023-04-26, 30, Pork, Smoked Back Bacon, 10, 221.82, App, Visa, 0.085, 2029.65300
+2023-03-20, 2023-05-17, 58, Compound, Raspberry, 17, 105.46, Store, Visa, 0.075, 1658.35850
+2023-03-15, 2023-06-04, 81, Mousse, Banana Chocolate, 5, 117.79, App, Visa, 0.05, 559.5025
+2023-04-20, 2023-05-07, 17, Flour, Chickpea, 6, 175.29, Store, Visa, 0.075, 972.85950
+2023-03-27, 2023-05-14, 48, Wine, Baron De Rothschild, 16, 230.14, Store, Cash, 0.075, 3406.07200
+2023-05-11, 2023-08-08, 89, Tart Shells, Savory 3, 10, 91.41, App, Visa, 0.085, 836.40150
+2023-03-15, 2023-06-07, 84, Gelatine Leaves, Envelopes, 4, 154.74, Store, Cash, 0, 618.96
+2023-05-03, 2023-05-25, 22, Soup, Campbells Beef Barley, 7, 11.2, App, Visa, 0.1, 70.56
+2023-03-20, 2023-03-24, 4, Sugar, Sweet N Low Individual, 1, 176.87, Store, Cash, 0.02, 173.3326
+2023-04-05, 2023-05-14, 39, Flour, Fast / Rapid, 3, 196.76, Store, Cash, 0, 590.28
+2023-05-09, 2023-07-27, 79, Flower, Leather Leaf Fern, 8, 108.89, Store, Cash, 0.025, 849.34200
+2023-03-21, 2023-06-14, 85, Potatoes, Mini Red, 17, 19.03, Store, Cash, 0.05, 307.3345
+2023-03-16, 2023-04-10, 25, Cheese, Brick With Pepper, 7, 179.52, App, Visa, 0.1, 1130.976
+2023-03-30, 2023-04-15, 16, Tea, Decaf 1 Cup, 5, 44.48, Store, Cash, 0.05, 211.2800
+2023-04-02, 2023-04-25, 23, Wine, Prosecco Valdobienne, 12, 175.86, App, Visa, 0.125, 1846.53000
+2023-03-18, 2023-05-06, 49, Unknown, Wonton Wrappers, 17, 245.21, App, Visa, 0.15, 3543.2845
+2023-03-23, 2023-04-30, 38, Unknown, Oranges, 16, 168.9, App, Visa, 0.35, 1756.560
+2023-05-01, 2023-05-19, 18, Vodka, Smirnoff, 6, 22.11, Store, Cash, 0.075, 122.71050
+2023-05-11, 2023-06-20, 40, Doilies, 7 Paper, 14, 114.09, App, Visa, 0.11, 1421.5614
+2023-04-26, 2023-06-17, 52, Sauce, Vodka Blush, 17, 11.78, App, Visa, 0.15, 170.2210
+2023-03-28, 2023-06-14, 78, Unknown, Fruit Salad Deluxe, 12, 121.28, Store, Cash, 0.035, 1404.42240
+2023-03-20, 2023-05-09, 50, Tray, 16in Rnd Blk, 6, 167.8, Store, Visa, 0.05, 956.460
+2023-04-17, 2023-07-12, 86, Unknown, Shallots, 6, 193.62, App, Visa, 0.075, 1074.59100
+2023-05-12, 2023-05-28, 16, Unknown, Lobak, 2, 62.86, App, Visa, 0.075, 116.29100
+2023-04-24, 2023-06-03, 40, The Pop Shoppe, Black Cherry, 7, 56.81, Store, Cash, 0.025, 387.72825
+2023-05-12, 2023-05-22, 10, Cheese, Le Cru Du Clocher, 6, 66.27, Store, Cash, 0.1, 357.858
+2023-03-19, 2023-04-16, 28, Bread, Sticks Thin Plain, 10, 187.56, App, Visa, 0.1, 1688.040
+2023-03-14, 2023-03-23, 9, Unknown, Assorted Desserts, 7, 15.94, Store, Visa, 0.07, 103.7694
+2023-03-27, 2023-06-04, 69, Shrimp, 31/40, 17, 127.13, App, Visa, 0.15, 1837.0285
+2023-04-02, 2023-04-08, 6, Appetizer, Shrimp Puff, 16, 12.4, Store, Cash, 0.08, 182.528
+2023-03-28, 2023-04-28, 31, Shortbread, Cookie Crumbs, 6, 105.47, Store, Cash, 0.025, 616.99950
+2023-05-11, 2023-07-28, 78, Sausage, Meat, 1, 234.17, Store, Cash, 0, 234.17
+2023-04-13, 2023-05-18, 35, Raspberries, Frozen, 9, 193.27, Store, Cash, 0.025, 1695.94425
+2023-03-19, 2023-04-03, 15, Carbonated Water, Lemon Lime, 3, 17.15, Store, Cash, 0.05, 48.8775
+2023-05-08, 2023-05-28, 20, Cookie Dough, Oatmeal Rasin, 1, 221.69, Store, Visa, 0.075, 205.06325
+2023-05-11, 2023-07-15, 65, Unknown, Coffee Cup 16oz Foam, 12, 188.64, Store, Cash, 0.035, 2184.45120
+2023-04-14, 2023-05-20, 36, Cheese, Swiss, 8, 197.96, Store, Visa, 0.075, 1464.90400
+2023-03-24, 2023-06-13, 81, Flour, Whole Wheat, 15, 230, Store, Cash, 0, 3450
+2023-03-26, 2023-04-01, 6, Unknown, Tobasco Sauce, 1, 158.62, Store, Visa, 0.055, 149.89590
+2023-04-06, 2023-05-19, 43, Vegetable, Base, 4, 7.2, Store, Visa, 0.025, 28.0800
+2023-04-12, 2023-06-02, 51, Macaroons, Two Bite Choc, 4, 180.79, Store, Visa, 0.025, 705.08100
+2023-04-10, 2023-04-23, 13, Iced Tea, Lemon 460 Ml, 13, 7.96, Store, Cash, 0.085, 94.68420
+2023-04-10, 2023-05-21, 41, Unknown, Cookie Chocolate Chip With, 3, 101.45, Store, Cash, 0, 304.35
+2023-04-19, 2023-06-11, 53, Wine, Chardonnay Mondavi, 8, 62.95, App, Visa, 0.075, 465.83000
+2023-03-14, 2023-06-01, 79, Kale, Red, 17, 125.13, Store, Visa, 0.075, 1967.66925
+2023-04-05, 2023-06-06, 62, Unknown, Chevere Logs, 6, 99.87, App, Visa, 0.075, 554.27850
+2023-04-10, 2023-06-17, 68, Fondant, Icing, 8, 161.12, Store, Visa, 0.05, 1224.5120
+2023-04-02, 2023-04-20, 18, Unknown, Table Cloth 53x53 White, 8, 245.07, Store, Cash, 0.075, 1813.51800
+2023-04-20, 2023-05-14, 24, Soup, Campbells Asian Noodle, 2, 213.54, Store, Visa, 0.075, 395.04900
+2023-04-14, 2023-07-13, 90, Pate, Cognac, 12, 223.77, Store, Cash, 0.035, 2591.25660
+2023-04-30, 2023-07-12, 73, Turnip, White, 1, 239.67, Store, Cash, 0, 239.67
+2023-04-06, 2023-05-10, 34, Cheese, Woolwich Goat Log, 6, 153.26, Store, Cash, 0.075, 850.59300
+2023-04-23, 2023-07-13, 81, Oil, Shortening - All - Purpose, 17, 145.27, App, Visa, 0.15, 2099.1515
+2023-04-23, 2023-06-20, 58, Thyme, Fresh, 3, 29.72, Store, Cash, 0, 89.16
+2023-05-04, 2023-05-08, 4, Hagen Daza, Dk Choocolate, 15, 122.94, Store, Visa, 0.045, 1761.11550
+2023-03-26, 2023-06-15, 81, Yoplait, Strawbrasp Peac, 5, 69.06, App, Visa, 0.05, 328.0350
+2023-04-20, 2023-07-03, 74, Cream, 35%, 7, 203.34, App, Visa, 0.075, 1316.62650
+2023-03-18, 2023-05-28, 71, Lemon Balm, Fresh, 14, 58.77, App, Visa, 0.11, 732.2742
+2023-04-07, 2023-05-10, 33, Cheese, Grie Des Champ, 6, 40.56, Store, Visa, 0.075, 225.10800
+2023-03-30, 2023-05-02, 33, Stock, Beef White, 9, 60.72, Store, Cash, 0.025, 532.81800
+2023-03-26, 2023-04-10, 15, Onions, Cippolini, 4, 161.28, App, Visa, 0.075, 596.73600
+2023-04-25, 2023-05-01, 6, Beef, Tender Tips, 3, 5.69, Store, Visa, 0.055, 16.13115
+2023-03-18, 2023-03-19, 1, Beer, Guiness, 16, 232.34, Store, Cash, 0.055, 3512.98080
+2023-03-15, 2023-05-22, 68, Soup, Campbells Beef Stew, 2, 208.53, App, Visa, 0.05, 396.2070
+2023-04-04, 2023-06-17, 74, Soup, Chicken And Wild Rice, 12, 126.06, Store, Cash, 0.035, 1459.77480
+2023-03-16, 2023-06-14, 90, Ice Cream, Life Savers, 13, 6.12, Store, Visa, 0.06, 74.7864
+2023-05-03, 2023-06-06, 34, Pork, Backfat, 3, 209.35, Store, Cash, 0, 628.05
+2023-05-08, 2023-05-27, 19, Pecan Raisin, Tarts, 14, 122.75, Store, Cash, 0.085, 1572.42750
+2023-04-16, 2023-04-27, 11, Brocolinni, Gaylan Chinese, 6, 111.13, Store, Cash, 0.075, 616.77150
+2023-04-25, 2023-06-02, 38, Cheese, Manchego Spanish, 15, 7.6, App, Visa, 0.125, 99.7500
+2023-04-26, 2023-07-09, 74, Mustard, Pommery, 14, 125.39, Store, Cash, 0.035, 1694.01890
+2023-04-01, 2023-06-28, 88, Potatoes, Mini Red, 11, 225.48, Store, Visa, 0.06, 2331.4632
+2023-03-26, 2023-04-24, 29, Pastry, Carrot Muffin - Mini, 6, 241.17, Store, Cash, 0.075, 1338.49350
+2023-04-20, 2023-04-26, 6, Sparkling Wine, Rose Freixenet, 15, 245.79, Store, Cash, 0.055, 3484.07325
+2023-04-14, 2023-06-30, 77, Jam, Blackberry 20 Ml Jar, 14, 64.57, Store, Visa, 0.06, 849.7412
+2023-03-20, 2023-05-14, 55, Stock, Fish, 12, 94.25, App, Visa, 0.11, 1006.5900
+2023-04-10, 2023-06-10, 61, Unknown, Poppy Seed, 9, 51.14, Store, Visa, 0.05, 437.2470
+2023-05-04, 2023-07-06, 63, Fond, Neutral, 15, 108.81, Store, Visa, 0.025, 1591.34625
+2023-03-17, 2023-05-08, 52, Artichoke, Fresh, 14, 219.95, App, Visa, 0.11, 2740.5770
+2023-03-13, 2023-04-24, 42, Muffin, Zero Transfat, 3, 127.44, Store, Cash, 0, 382.32
+2023-03-13, 2023-06-10, 89, Soup, Campbells Bean Medley, 16, 162.4, App, Visa, 0.15, 2208.640
+2023-03-22, 2023-04-10, 19, Unknown, Canadian Emmenthal, 16, 240.98, Store, Cash, 0.1, 3470.112
+2023-04-10, 2023-06-04, 55, Corn, On The Cob, 15, 245.09, App, Visa, 0.10, 3308.7150
+2023-03-26, 2023-05-03, 38, Unknown, Lamb Rack Frenched Australian, 1, 138.86, Store, Visa, 0.025, 135.38850
+2023-03-13, 2023-05-13, 61, Pastry, Baked Cinnamon Stick, 17, 166.51, Store, Visa, 0.075, 2618.36975
+2023-04-14, 2023-05-03, 19, Tortillas, Flour 12, 6, 49.16, App, Visa, 0.1, 265.464
+2023-04-03, 2023-05-21, 48, Steampan, Lid For Half Size, 15, 233.85, Store, Cash, 0, 3507.75
+2023-04-05, 2023-06-08, 64, Capon, Breast Double Wing On, 3, 220.85, Store, Cash, 0, 662.55
+2023-05-03, 2023-06-24, 52, Unknown, Loquat, 14, 174.21, Store, Cash, 0.035, 2353.57710
+2023-04-08, 2023-05-10, 32, Juice, Ocean Spray Cranberry, 7, 189.75, Store, Visa, 0.05, 1261.8375
+2023-05-11, 2023-06-23, 43, Beef, Inside Round, 7, 1.36, Store, Cash, 0.025, 9.28200
+2023-05-12, 2023-07-13, 62, Unknown, Pancetta, 6, 181.83, Store, Visa, 0.05, 1036.4310
+2023-04-09, 2023-04-19, 10, Garlic, Elephant, 17, 132.65, Store, Cash, 0.1, 2029.545
+2023-05-02, 2023-07-01, 60, Ranchero, Primerba Paste, 8, 162.54, App, Visa, 0.075, 1202.79600
+2023-04-02, 2023-05-15, 43, Wine, Charddonnay Errazuriz, 3, 92.21, Store, Visa, 0.05, 262.7985
+2023-03-16, 2023-04-16, 31, Potatoes, Peeled, 5, 78.01, App, Visa, 0.05, 370.5475
+2023-04-28, 2023-05-18, 20, Triple Sec, Mcguinness, 4, 44.35, Store, Cash, 0.05, 168.5300
+2023-04-06, 2023-04-14, 8, Longos, Penne With Pesto, 15, 186.92, Store, Cash, 0.04, 2691.6480
+2023-03-22, 2023-05-16, 55, Onions, Red Pearl, 2, 208.6, Store, Visa, 0.025, 406.7700
+2023-05-04, 2023-07-02, 59, Pepper, Black Crushed, 16, 152.4, Store, Visa, 0.075, 2255.5200
+2023-04-01, 2023-06-02, 62, Fond, Neutral, 11, 103.06, App, Visa, 0.11, 1008.9574
+2023-04-01, 2023-06-28, 88, Beer, Paulaner Hefeweisse, 13, 37.05, Store, Visa, 0.06, 452.7510
+2023-04-30, 2023-07-06, 67, Unknown, Sage Derby, 12, 41.48, App, Visa, 0.11, 443.0064
+2023-03-14, 2023-05-01, 48, Pasta, Fusili Tri - Coloured, 17, 70.45, App, Visa, 0.15, 1018.0025
+2023-03-25, 2023-03-28, 3, Unknown, Lady Fingers, 13, 223.14, App, Visa, 0.11, 2581.7298
+2023-03-17, 2023-05-06, 50, Pop, Club Soda Can, 7, 128.83, Store, Cash, 0.025, 879.26475
+2023-05-12, 2023-06-19, 38, Unknown, Cardamon Ground, 7, 84.84, App, Visa, 0.075, 549.33900
+2023-04-01, 2023-04-06, 5, Ice Cream, Life Savers, 5, 53.47, Store, Visa, 0.05, 253.9825
+2023-03-20, 2023-03-27, 7, Unknown, Five Alive Citrus, 4, 51.52, Store, Visa, 0.06, 193.7152
+2023-03-21, 2023-06-03, 74, Bagel, 12 Grain Preslice, 7, 169.41, Store, Visa, 0.05, 1126.5765
+2023-04-28, 2023-07-16, 79, Cheese, Augre Des Champs, 15, 113.75, Store, Cash, 0.05, 1620.9375
+2023-03-14, 2023-05-09, 56, Chocolate, Milk Callets, 1, 57.02, App, Visa, 0.05, 54.1690
+2023-03-15, 2023-03-18, 3, Tea Leaves, Oolong, 14, 75.78, Store, Cash, 0.05, 1007.8740
+2023-04-14, 2023-05-16, 32, Unknown, Chilli Paste Hot Sambal Oelek, 15, 20.58, Store, Cash, 0, 308.70
+2023-04-09, 2023-06-15, 67, Red Cod Fillets, 225g, 14, 234.77, Store, Cash, 0.035, 3171.74270
+2023-03-27, 2023-05-10, 44, Unknown, Fuji Apples, 14, 130.74, Store, Cash, 0.035, 1766.29740
+2023-05-03, 2023-07-01, 59, Bread, Assorted Rolls, 2, 214.24, Store, Cash, 0, 428.48
+2023-04-23, 2023-06-11, 49, Unknown, Cocktail Napkin Blue, 3, 5.02, Store, Cash, 0, 15.06
+2023-04-24, 2023-06-05, 42, Soup, French Onion Dry, 7, 157.84, Store, Visa, 0.05, 1049.6360
+2023-03-29, 2023-04-25, 27, Coffee, Irish Cream, 12, 201.33, Store, Cash, 0.085, 2210.60340
+2023-03-17, 2023-06-02, 77, Unknown, Glycerine, 16, 240.75, App, Visa, 0.15, 3274.2000
+2023-04-21, 2023-06-18, 58, Lobster, Base, 6, 232.62, Store, Cash, 0.025, 1360.82700
+2023-03-21, 2023-04-01, 11, Milk, Skim, 16, 82.01, Store, Visa, 0.1, 1180.944
+2023-04-26, 2023-06-09, 44, Unknown, Cookie Choc, 14, 236.92, Store, Cash, 0.035, 3200.78920
+2023-04-28, 2023-07-26, 89, Beer, Steamwhistle, 16, 64.97, App, Visa, 0.15, 883.5920
+2023-03-29, 2023-06-18, 81, Spinach, Spinach Leaf, 4, 71.74, Store, Cash, 0, 286.96
+2023-03-15, 2023-06-09, 86, Chinese Foods, Chicken Wing, 16, 215.06, App, Visa, 0.15, 2924.8160
+2023-05-03, 2023-05-11, 8, Cranberries, Frozen, 9, 215.56, Store, Cash, 0.065, 1813.93740
+2023-04-13, 2023-06-11, 59, Soup, Campbells Chili, 15, 116.4, Store, Cash, 0, 1746.0
+2023-05-11, 2023-05-14, 3, Unknown, General Purpose Trigger, 9, 243.88, Store, Cash, 0.04, 2107.1232
+2023-03-24, 2023-03-26, 2, Unknown, Liqueur Banana Ramazzotti, 13, 131.39, App, Visa, 0.11, 1520.1823
+2023-04-21, 2023-06-13, 53, Unknown, Bagelers, 16, 202.73, Store, Cash, 0.05, 3081.4960
+2023-03-17, 2023-05-03, 47, Chocolate Bar, Smarties, 6, 36.23, Store, Visa, 0.05, 206.5110
+2023-03-23, 2023-06-03, 72, Longos, Greek Salad, 16, 49.18, Store, Cash, 0.3, 550.816
+2023-04-28, 2023-07-04, 67, Beer, Blue Light, 8, 38.44, Store, Cash, 0.025, 299.83200
+2023-05-07, 2023-07-07, 61, Ice Cream, Super Sandwich, 16, 63.29, App, Visa, 0.15, 860.7440
+2023-05-05, 2023-06-05, 31, Bacardi Breezer, Tropical, 11, 6.02, App, Visa, 0.11, 58.9358
+2023-04-07, 2023-05-27, 50, Beef, Montreal Smoked Brisket, 15, 214.75, App, Visa, 0.10, 2899.1250
+2023-03-24, 2023-05-18, 55, Unknown, Sprouts Dikon, 11, 198.74, Store, Cash, 0.035, 2109.62510
+2023-03-13, 2023-05-10, 58, Pasta, Bauletti Chicken White, 9, 210.88, Store, Cash, 0.025, 1850.47200
+2023-04-08, 2023-04-29, 21, Chicken, Ground, 12, 91.7, Store, Cash, 0.085, 1006.8660
+2023-04-10, 2023-06-15, 66, Wine, White French Cross, 14, 105.92, Store, Cash, 0.06, 1393.9072
+2023-05-05, 2023-06-18, 44, Appetizer, Tarragon Chicken, 12, 217.6, Store, Cash, 0.035, 2519.8080
+2023-05-06, 2023-06-18, 43, Unknown, Phyllo Dough, 7, 249.92, Store, Cash, 0.025, 1705.70400
+2023-04-14, 2023-05-21, 37, Cheese, Camembert, 6, 75.17, App, Visa, 0.1, 405.918
+2023-05-01, 2023-05-30, 29, Jam, Raspberry, 3, 71.6, Store, Cash, 0.05, 204.060
+2023-05-12, 2023-05-16, 4, Wine, Pinot Noir Mondavi Coastal, 15, 114.42, Store, Cash, 0.045, 1639.06650
+2023-05-04, 2023-07-13, 70, Creamers, 10%, 16, 182.77, App, Visa, 0.15, 2485.6720
+2023-03-20, 2023-05-26, 67, Wine, Chablis 2003 Champs, 10, 88.12, Store, Cash, 0.06, 828.3280
+2023-03-19, 2023-06-17, 90, Wine, Rosso Del Veronese Igt, 10, 110.96, Store, Cash, 0.06, 1043.0240
+2023-04-25, 2023-06-27, 63, Filter, Coffee, 12, 48.79, Store, Visa, 0.06, 550.3512
+2023-03-13, 2023-04-15, 33, Ice Cream Bar, Oreo Sandwich, 7, 233.66, Store, Cash, 0.025, 1594.72950
+2023-03-23, 2023-06-13, 82, Ham, Proscuitto, 14, 162.01, Store, Visa, 0.285, 1621.72010
+2023-04-02, 2023-04-06, 4, Juice, Apple 341 Ml, 9, 65.97, App, Visa, 0.075, 549.20025
+2023-04-23, 2023-06-28, 66, Unknown, Magnotta Bel Paese Red, 4, 9.69, App, Visa, 0.05, 36.8220
+2023-04-12, 2023-05-21, 39, Unknown, Sauce Bbq Smokey, 1, 111.91, Store, Cash, 0, 111.91
+2023-03-14, 2023-05-18, 65, Unknown, Mix Pina Colada, 11, 132.35, Store, Visa, 0.06, 1368.4990
+2023-03-29, 2023-06-09, 72, Chicken, Whole Roasting, 3, 226.77, App, Visa, 0.05, 646.2945
+2023-04-29, 2023-07-28, 90, Sprouts, Peppercress, 15, 83.76, App, Visa, 0.10, 1130.7600
+2023-03-17, 2023-06-08, 83, Unknown, Sugar Thermometer, 9, 35.86, Store, Cash, 0.025, 314.67150
+2023-05-02, 2023-05-25, 23, Butter, Pod, 9, 6.64, App, Visa, 0.1, 53.784
+2023-05-12, 2023-06-09, 28, Unknown, Garam Marsala, 8, 42.36, Store, Cash, 0.075, 313.46400
+2023-05-08, 2023-06-09, 32, Unknown, Mudslide, 7, 128.4, Store, Cash, 0.025, 876.3300
+2023-03-17, 2023-06-03, 78, Ecolab, Ster Bac, 7, 127.84, Store, Visa, 0.05, 850.1360
+2023-05-01, 2023-07-14, 74, Noodles, Cellophane Thin, 17, 171, Store, Cash, 0.05, 2761.65
+2023-04-16, 2023-06-30, 75, Appetizer, Southwestern, 11, 124.86, Store, Cash, 0.035, 1325.38890
+2023-04-21, 2023-06-29, 69, Thyme, Dried, 3, 85.66, App, Visa, 0.05, 244.1310
+2023-04-19, 2023-05-03, 14, Coffee, French Vanilla Frothy, 4, 181.44, Store, Visa, 0.075, 671.32800
+2023-04-09, 2023-07-06, 88, Ecolab, Solid Fusion, 4, 11.47, Store, Cash, 0, 45.88
+2023-04-21, 2023-06-20, 60, Sour Puss, Tangerine, 9, 187.57, Store, Visa, 0.05, 1603.7235
+2023-03-28, 2023-06-01, 65, Unknown, Napkin Colour, 3, 95.55, Store, Cash, 0, 286.65
+2023-03-16, 2023-04-13, 28, Unknown, Passion Fruit, 5, 47.25, Store, Visa, 0.075, 218.53125
+2023-04-21, 2023-06-25, 65, Beef, Tenderloin Tails, 6, 216.68, App, Visa, 0.075, 1202.57400
+2023-05-06, 2023-05-28, 22, Calypso, Strawberry Lemonade, 8, 136.78, App, Visa, 0.1, 984.816
+2023-05-03, 2023-07-21, 79, Unknown, Soupfoamcont12oz 112con, 13, 60.32, Store, Visa, 0.06, 737.1104
+2023-03-14, 2023-03-23, 9, Fudge, Cream Fudge, 12, 225.99, App, Visa, 0.12, 2386.4544
+2023-05-10, 2023-05-23, 13, Gingerale, Diet - Schweppes, 10, 193.2, Store, Visa, 0.085, 1767.7800
+2023-05-05, 2023-07-19, 75, Trueblue, Blueberry 12x473ml, 3, 51.38, Store, Cash, 0, 154.14
+2023-04-20, 2023-05-12, 22, Calypso, Black Cherry Lemonade, 12, 8.31, Store, Cash, 0.085, 91.24380
+2023-05-07, 2023-05-23, 16, Puree, Raspberry, 10, 134.58, Store, Cash, 0.085, 1231.40700
+2023-03-17, 2023-04-28, 42, Pate, Cognac, 1, 70.2, Store, Cash, 0, 70.2
+2023-04-07, 2023-06-04, 58, Unknown, Hipnotiq Liquor, 16, 22.23, Store, Cash, 0.05, 337.8960
+2023-04-04, 2023-04-12, 8, Icecream, Dstk Cml And Fdg, 3, 184.39, Store, Cash, 0.04, 531.0432
+2023-04-23, 2023-05-12, 19, Muffin Mix, Carrot, 12, 228.89, Store, Visa, 0.085, 2513.21220
+2023-04-25, 2023-06-14, 50, Mushroom, Morels Dry, 15, 50.24, Store, Visa, 0.025, 734.76000
+2023-04-29, 2023-07-22, 84, Unknown, Foie Gras, 6, 28.35, App, Visa, 0.075, 157.34250
+2023-04-02, 2023-04-30, 28, Unknown, Pepperoni Slices, 8, 130.02, Store, Visa, 0.075, 962.14800
+2023-03-13, 2023-05-03, 51, Cake, Sheet Strawberry, 11, 218.23, Store, Cash, 0.035, 2316.51145
+2023-04-25, 2023-05-22, 27, Unknown, Mahi Mahi, 6, 17.81, App, Visa, 0.1, 96.174
+2023-03-13, 2023-04-14, 32, Beans, Yellow, 17, 138.42, Store, Cash, 0.05, 2235.4830
+2023-04-17, 2023-06-05, 49, Mushrooms, Honey, 4, 144.18, App, Visa, 0.05, 547.8840
+2023-04-23, 2023-05-27, 34, Longos, Lasagna Beef, 12, 236.92, Store, Cash, 0.035, 2743.53360
+2023-04-26, 2023-06-17, 52, Food Colouring, Blue, 3, 216.56, Store, Cash, 0, 649.68
+2023-05-04, 2023-07-01, 58, Veal, Provimi Inside, 14, 166.26, Store, Cash, 0.035, 2246.17260
+2023-04-22, 2023-06-03, 42, Olive, Spread Tapenade, 6, 188.99, Store, Visa, 0.05, 1077.2430
+2023-04-04, 2023-04-29, 25, Foil, Round Foil, 9, 135.32, Store, Cash, 0.075, 1126.53900
+2023-03-23, 2023-04-29, 37, Scallops, U - 10, 16, 15.66, Store, Cash, 0.3, 175.392
+2023-04-06, 2023-05-10, 34, Bag, Bread White Plain, 16, 108.67, Store, Cash, 0.05, 1651.7840
+2023-05-06, 2023-07-21, 76, Carbonated Water, Raspberry, 6, 111.15, App, Visa, 0.075, 616.88250
+2023-03-13, 2023-04-12, 30, Wine, Segura Viudas Aria Brut, 12, 70.29, Store, Visa, 0.06, 792.8712
+2023-04-22, 2023-04-28, 6, Unknown, Amarula Cream, 13, 50.37, App, Visa, 0.11, 582.7809
+2023-04-23, 2023-05-31, 38, Salmon, Atlantic No Skin, 10, 206.7, App, Visa, 0.085, 1891.3050
+2023-04-19, 2023-06-14, 56, Unknown, Sugar Thermometer, 14, 196.59, Store, Cash, 0.035, 2655.93090
+2023-04-03, 2023-04-18, 15, Liqueur, Melon, 11, 212.54, Store, Cash, 0.085, 2139.21510
+2023-04-25, 2023-07-18, 84, Unknown, Madeira, 14, 129, Store, Cash, 0.035, 1742.790
+2023-04-27, 2023-07-09, 73, Flower, Commercial Spider, 4, 134.57, Store, Visa, 0.025, 524.82300
+2023-03-19, 2023-05-23, 65, Capon, Breast Double Wing On, 6, 32.99, App, Visa, 0.075, 183.09450
+2023-04-11, 2023-06-19, 69, Unknown, Smoked Tongue, 11, 116.12, Store, Visa, 0.06, 1200.6808
+2023-04-17, 2023-05-17, 30, Apple, Fuji, 2, 236.66, App, Visa, 0.05, 449.6540
+2023-04-20, 2023-06-26, 67, Pork, Bacon Double Smoked, 17, 160.41, App, Visa, 0.15, 2317.9245
+2023-04-27, 2023-06-14, 48, Island Oasis, Peach Daiquiri, 8, 21.59, App, Visa, 0.075, 159.76600
+2023-04-29, 2023-06-15, 47, Pepper, Chipotle Canned, 1, 82.75, Store, Cash, 0, 82.75
+2023-04-25, 2023-07-09, 75, Wine, Duboeuf Beaujolais, 8, 231.85, Store, Cash, 0.05, 1762.0600
+2023-04-08, 2023-05-21, 43, Soup, Knorr Classic Can. Chili, 6, 75.73, Store, Visa, 0.05, 431.6610
+2023-04-24, 2023-07-08, 75, Water, Spring Water 355 Ml, 9, 246.21, App, Visa, 0.075, 2049.69825
+2023-03-23, 2023-05-02, 40, Onions, Green, 17, 71.44, App, Visa, 0.35, 789.4120
+2023-04-18, 2023-06-24, 67, Rice, Jasmine Sented, 13, 145.71, Store, Cash, 0.035, 1827.93195
+2023-04-29, 2023-07-03, 65, Unknown, Snapple Lemon Tea, 13, 90.59, Store, Visa, 0.06, 1107.0098
+2023-05-11, 2023-06-06, 26, Nut, Cashews Whole Raw, 9, 123.2, Store, Visa, 0.075, 1025.6400
+2023-04-07, 2023-05-09, 32, Bread, Triangle White, 15, 181.13, App, Visa, 0.10, 2445.2550
+2023-04-26, 2023-07-17, 82, Pasta, Rotini Colour Dry, 4, 200.73, Store, Visa, 0.025, 782.84700
+2023-03-29, 2023-04-10, 12, Milk, Skim, 4, 230.51, Store, Cash, 0.05, 875.9380
+2023-05-01, 2023-07-05, 65, Beans, Green, 15, 112.63, App, Visa, 0.10, 1520.5050
+2023-04-21, 2023-05-14, 23, Longos, Lasagna Beef, 9, 247.62, Store, Cash, 0.075, 2061.43650
+2023-04-27, 2023-06-04, 38, Bread, Olive Dinner Roll, 8, 2.23, App, Visa, 0.075, 16.50200
+2023-03-19, 2023-06-09, 82, Soup, French Can Pea, 10, 86.47, Store, Visa, 0.06, 812.8180
+2023-03-16, 2023-03-17, 1, Unknown, Corn Meal, 16, 24.53, Store, Cash, 0.055, 370.89360
+2023-04-17, 2023-06-15, 59, Unknown, Jerusalem Artichoke, 4, 203.16, Store, Visa, 0.025, 792.32400
+2023-05-12, 2023-07-31, 80, Ocean Spray, Kiwi Strawberry, 11, 175.29, Store, Visa, 0.06, 1812.4986
+2023-04-06, 2023-06-04, 59, Unknown, Silicone Parch. 16.3x24.3, 2, 38.77, Store, Visa, 0.025, 75.60150
+2023-05-06, 2023-05-14, 8, Unknown, Sachet, 5, 81.34, Store, Cash, 0.04, 390.4320
+2023-03-19, 2023-03-30, 11, Unknown, Spaghetti Squash, 9, 10.77, Store, Cash, 0.075, 89.66025
+2023-04-11, 2023-06-02, 52, Coffee Beans, Chocolate, 12, 102.37, Store, Visa, 0.06, 1154.7336
+2023-04-26, 2023-05-29, 33, Bread, Flat Bread, 13, 245.49, App, Visa, 0.11, 2840.3193
+2023-04-20, 2023-05-02, 12, Unknown, Egg Patty Fried, 7, 182.62, Store, Cash, 0.075, 1182.46450
+2023-04-09, 2023-07-08, 90, Unknown, Grenadillo, 7, 70.22, App, Visa, 0.075, 454.67450
+2023-03-30, 2023-06-04, 66, Island Oasis, Peach Daiquiri, 13, 67.7, Store, Cash, 0.035, 849.2965
+2023-04-12, 2023-04-22, 10, Marsala, Sperone Fine D.o.c., 12, 113.77, Store, Cash, 0.085, 1249.19460
+2023-04-28, 2023-05-06, 8, Snapple, Mango Maddness, 1, 111.28, Store, Cash, 0.04, 106.8288
+2023-03-21, 2023-04-09, 19, Wine, Sake, 11, 125.98, App, Visa, 0.125, 1212.55750
+2023-05-07, 2023-05-30, 23, Bread, Sticks Thin Plain, 16, 133.65, Store, Cash, 0.1, 1924.560
+2023-04-28, 2023-05-02, 4, Sugar, Fine, 12, 109.82, Store, Cash, 0.055, 1245.35880
+2023-04-15, 2023-06-16, 62, Unknown, Snapple Lemon Tea, 1, 237.89, Store, Cash, 0, 237.89
+2023-04-24, 2023-07-23, 90, Trout, Rainbow Fresh, 12, 185.12, Store, Cash, 0.035, 2143.68960
+2023-03-29, 2023-06-13, 76, Chutney Sauce, Mango, 8, 216.72, Store, Visa, 0.05, 1647.0720
+2023-04-01, 2023-06-24, 84, Wine, Placido Pinot Grigo, 8, 176.57, App, Visa, 0.075, 1306.61800
+2023-04-02, 2023-04-29, 27, Lobster, Live, 13, 186.23, Store, Cash, 0.085, 2215.20585
+2023-03-15, 2023-03-20, 5, Pastry, Key Limepoppy Seed Tea, 4, 112.38, Store, Visa, 0.05, 427.0440
+2023-03-19, 2023-04-19, 31, Pepper, Julienne Frozen, 2, 236.64, Store, Visa, 0.025, 461.44800
+2023-04-28, 2023-06-16, 49, Unknown, Tomatoes, 14, 8.53, App, Visa, 0.11, 106.2838
+2023-03-20, 2023-04-04, 15, Water, Evian 355 Ml, 17, 143.49, Store, Visa, 0.1, 2195.397
+2023-04-13, 2023-07-11, 89, Beer, Maudite, 15, 176.36, Store, Cash, 0, 2645.40
+2023-05-01, 2023-07-30, 90, Bouillion, Fish, 6, 91.44, Store, Cash, 0.025, 534.92400
+2023-04-13, 2023-06-17, 65, Edible Flower, Mixed, 11, 58.36, App, Visa, 0.11, 571.3444
+2023-04-13, 2023-04-19, 6, Split Peas, Green Dry, 2, 204.16, App, Visa, 0.055, 385.86240
+2023-05-05, 2023-07-09, 65, Fib N9, Prague Powder, 1, 4.5, Store, Cash, 0, 4.5
+2023-04-09, 2023-04-22, 13, Pickle, Dill, 13, 130.2, App, Visa, 0.125, 1481.0250
+2023-03-30, 2023-04-04, 5, Truffle Cups, Red, 13, 143.75, App, Visa, 0.11, 1663.1875
+2023-04-13, 2023-06-23, 71, Broom, Angled, 17, 243.87, Store, Cash, 0.05, 3938.5005
+2023-03-30, 2023-06-26, 88, Juice, Tomato 48 Oz, 6, 15.79, Store, Visa, 0.05, 90.0030
+2023-04-12, 2023-07-04, 83, Sauce, Plum, 13, 83.88, Store, Cash, 0.035, 1052.27460
+2023-04-16, 2023-05-26, 40, Wine, Red Cabernet Merlot, 5, 185.28, Store, Visa, 0.05, 880.0800
+2023-05-02, 2023-05-30, 28, Cheese, Brie Cups 125g, 14, 96.63, App, Visa, 0.125, 1183.71750
+2023-03-26, 2023-06-05, 71, Unknown, Horseradish Root, 15, 10.34, App, Visa, 0.10, 139.5900
+2023-04-23, 2023-06-15, 53, Turnip, Wax, 15, 94.8, Store, Cash, 0, 1422.0
+2023-03-23, 2023-06-20, 89, Cumin, Ground, 9, 20.97, Store, Visa, 0.275, 136.82925
+2023-04-02, 2023-07-01, 90, Yogurt, Blueberry 175 Gr, 8, 27.4, Store, Cash, 0.025, 213.7200
+2023-04-06, 2023-04-17, 11, Unknown, Cinnamon Rolls, 5, 71.47, Store, Visa, 0.075, 330.54875
+2023-05-12, 2023-05-19, 7, Wine, Vineland Estate Semi - Dry, 11, 127.04, Store, Cash, 0.07, 1299.6192
+2023-03-30, 2023-04-19, 20, Unknown, Dome Lid Clear P92008h, 2, 122.41, Store, Cash, 0.05, 232.5790
+2023-03-19, 2023-04-24, 36, Beef, Cow Feet Split, 7, 151.37, Store, Cash, 0.025, 1033.10025
+2023-04-02, 2023-05-03, 31, Unknown, Mahi Mahi, 1, 134.35, App, Visa, 0.05, 127.6325
+2023-03-27, 2023-04-18, 22, Unknown, Horseradish Root, 6, 190.46, Store, Visa, 0.075, 1057.05300
+2023-04-21, 2023-07-14, 84, Bread, Sour Batard, 5, 140.94, App, Visa, 0.05, 669.4650
+2023-04-15, 2023-06-11, 57, Sprite Diet, 355ml, 16, 135.29, App, Visa, 0.15, 1839.9440
+2023-03-20, 2023-04-11, 22, Unknown, Eggplant Italian, 16, 141.4, Store, Cash, 0.1, 2036.16
+2023-04-13, 2023-06-05, 53, Pasta, Bauletti Chicken White, 8, 233.12, Store, Cash, 0.025, 1818.33600
+2023-05-01, 2023-05-21, 20, Pastry, Key Limepoppy Seed Tea, 8, 15.42, Store, Cash, 0.075, 114.10800
+2023-04-17, 2023-05-10, 23, Veal, Tenderloin Untrimmed, 14, 191.97, Store, Cash, 0.085, 2459.13570
+2023-05-12, 2023-07-03, 52, Bag, Regular Kraft 20 Lb, 11, 24.42, App, Visa, 0.11, 239.0718
+2023-04-11, 2023-06-12, 62, Crackers, Soda / Saltins, 13, 54.93, Store, Cash, 0.035, 689.09685
+2023-03-29, 2023-06-01, 64, Oysters, Smoked, 17, 103.28, Store, Cash, 0.05, 1667.9720
+2023-05-06, 2023-05-24, 18, Water, Mineral Natural, 5, 169.85, Store, Cash, 0.05, 806.7875
+2023-03-21, 2023-06-12, 83, Beef, Salted, 4, 71.58, Store, Cash, 0, 286.32
+2023-04-07, 2023-05-25, 48, Wine, Baron De Rothschild, 1, 62.44, App, Visa, 0.05, 59.3180
+2023-05-12, 2023-08-04, 84, Juice, Pineapple 341 Ml, 2, 146.2, App, Visa, 0.05, 277.780
+2023-05-04, 2023-05-18, 14, Ice Cream Bar, Oreo Sandwich, 5, 111.87, Store, Visa, 0.075, 517.39875
+2023-04-07, 2023-05-11, 34, Beef, Roasted Cooked, 14, 41.46, Store, Cash, 0.035, 560.12460
+2023-03-29, 2023-06-06, 69, Unknown, Dates, 1, 191.02, Store, Cash, 0, 191.02
+2023-04-19, 2023-07-18, 90, Spice, Onion Powder Granulated, 6, 43.22, Store, Cash, 0.025, 252.83700
+2023-04-11, 2023-05-07, 26, Unknown, Creme De Cacao White, 13, 71.63, Store, Visa, 0.085, 852.03885
+2023-03-23, 2023-05-30, 68, Oil, Olive, 7, 11.72, Store, Cash, 0.275, 59.47900
+2023-03-29, 2023-04-14, 16, Wine, White Concha Y Toro, 8, 116.44, Store, Visa, 0.075, 861.65600
+2023-03-24, 2023-05-03, 40, Wine, Bourgogne 2002 La, 2, 164.81, Store, Cash, 0.025, 321.37950
+2023-04-17, 2023-05-08, 21, Bread, Rye, 12, 158.12, App, Visa, 0.125, 1660.26000
+2023-03-24, 2023-04-19, 26, Filter, Coffee, 10, 103.78, App, Visa, 0.1, 934.020
+2023-05-12, 2023-06-30, 49, Pasta, Lasagne Fresh, 16, 179.14, Store, Cash, 0.05, 2722.9280
+2023-05-07, 2023-06-15, 39, Unknown, Gherkin, 5, 176.37, Store, Cash, 0, 881.85
+2023-04-22, 2023-05-08, 16, Unknown, Swordfish Loin Portions, 11, 14.82, Store, Cash, 0.085, 149.16330
+2023-05-02, 2023-07-31, 90, Sausage, Chorizo, 15, 38.38, App, Visa, 0.10, 518.1300
+2023-04-21, 2023-05-24, 33, Sauce, Soy Low Sodium - 3.87l, 17, 112.69, Store, Cash, 0.05, 1819.9435
+2023-04-18, 2023-05-07, 19, Unknown, Hinge W Undercut, 15, 116.7, Store, Visa, 0.075, 1619.2125
+2023-04-15, 2023-07-08, 84, Wine, Fino Tio Pepe Gonzalez, 11, 121.46, App, Visa, 0.11, 1189.0934
+2023-04-06, 2023-05-05, 29, Container, Foam Dixie 12 Oz, 3, 187.58, App, Visa, 0.075, 520.53450
+2023-04-10, 2023-05-04, 24, Pastry, Baked Cinnamon Stick, 11, 226.12, Store, Cash, 0.085, 2275.89780
+2023-04-28, 2023-07-16, 79, Appetizer, Crab And Brie, 10, 87.97, Store, Cash, 0.035, 848.91050
+2023-05-07, 2023-05-28, 21, Carbonated Water, White Grape, 14, 241.26, Store, Cash, 0.085, 3090.54060
+2023-03-25, 2023-06-14, 81, Wine, Vineland Estate Semi - Dry, 3, 211.55, App, Visa, 0.05, 602.9175
+2023-04-02, 2023-04-27, 25, Tomatoes, Yellow Hot House, 1, 247.74, Store, Visa, 0.075, 229.15950
+2023-04-27, 2023-06-03, 37, Ice Cream, Turtles Stick Bar, 4, 21.62, App, Visa, 0.05, 82.1560
+2023-05-01, 2023-05-22, 21, Lobster, Canned Premium, 3, 213.03, App, Visa, 0.075, 591.15825
+2023-03-26, 2023-05-28, 63, Tomatoes, Heirloom, 7, 36.84, Store, Visa, 0.05, 244.9860
+2023-05-03, 2023-05-12, 9, Bread, Sour Batard, 4, 233.47, Store, Cash, 0.045, 891.85540
+2023-04-27, 2023-05-31, 34, Cheese, Briedanish, 17, 138.49, Store, Cash, 0.1, 2118.897
+2023-05-10, 2023-05-26, 16, Oil, Sunflower, 14, 38.56, Store, Visa, 0.085, 493.95360
+2023-04-27, 2023-07-11, 75, Milkettes, 2%, 17, 166.49, Store, Cash, 0.05, 2688.8135
+2023-03-25, 2023-05-11, 47, Mushroom, Shitake Dry, 6, 205.6, Store, Visa, 0.05, 1171.920
+2023-03-24, 2023-06-04, 72, Langers, Ruby Red Grapfruit, 17, 238.93, Store, Cash, 0.05, 3858.7195
+2023-05-07, 2023-05-20, 13, Coffee, Frthy Coffee Crisp, 14, 227.66, Store, Cash, 0.085, 2916.32460
+2023-03-30, 2023-04-12, 13, Wine, Touraine Azay - Le - Rideau, 9, 199.39, Store, Visa, 0.075, 1659.92175
+2023-03-25, 2023-05-26, 62, Nantucket, 518ml, 13, 164.42, App, Visa, 0.11, 1902.3394
+2023-04-23, 2023-06-01, 39, Bar Mix, Lime, 10, 86.94, Store, Cash, 0.035, 838.97100
+2023-04-02, 2023-06-27, 86, Unknown, Brandy Apricot, 5, 94.28, Store, Cash, 0, 471.40
+2023-05-09, 2023-05-15, 6, Bread, English Muffin, 12, 140.76, Store, Cash, 0.065, 1579.32720
+2023-04-03, 2023-05-29, 56, Unknown, Chevril, 11, 49.01, App, Visa, 0.11, 479.8079
+2023-04-28, 2023-05-19, 21, Unknown, Cocoa Feuilletine, 4, 47.61, Store, Cash, 0.05, 180.9180
+2023-03-18, 2023-04-10, 23, Spinach, Packaged, 2, 227.38, Store, Cash, 0.05, 432.0220
+2023-05-11, 2023-07-05, 55, Tea, Jasmin Green, 6, 67.86, Store, Cash, 0.025, 396.98100
+2023-05-06, 2023-07-07, 62, The Pop Shoppe, Root Beer, 4, 235.13, Store, Cash, 0, 940.52
+2023-03-27, 2023-06-02, 67, Onions, Cippolini, 15, 178.41, App, Visa, 0.10, 2408.5350
+2023-03-21, 2023-05-14, 54, Wine, Magnotta - Cab Franc, 17, 177.36, Store, Cash, 0.075, 2788.98600
+2023-03-25, 2023-04-26, 32, Chicken, Tenderloin, 15, 96.03, Store, Cash, 0, 1440.45
+2023-04-15, 2023-07-10, 86, Scallops, 10/20, 4, 34.29, Store, Cash, 0, 137.16
+2023-03-20, 2023-05-12, 53, Wine, Vovray Sec Domaine Huet, 3, 156.18, Store, Cash, 0.025, 456.82650
+2023-04-05, 2023-05-19, 44, Lime Cordial, Roses, 11, 207.53, App, Visa, 0.11, 2031.7187
+2023-05-10, 2023-07-12, 63, Unknown, Muffin Hinge 117n, 8, 211.66, Store, Visa, 0.05, 1608.6160
+2023-04-28, 2023-05-15, 17, Beer, True North Lager, 17, 189.56, Store, Cash, 0.1, 2900.268
+2023-03-19, 2023-05-09, 51, Wine, Red Pinot Noir Chateau, 6, 194.58, Store, Cash, 0.05, 1109.1060
+2023-03-28, 2023-06-05, 69, Unknown, Tomato Puree, 17, 85.62, Store, Cash, 0.05, 1382.7630
+2023-04-17, 2023-07-01, 75, Pork, Ham Virginia, 17, 137.5, App, Visa, 0.15, 1986.875
+2023-04-03, 2023-06-15, 73, Unknown, Jerusalem Artichoke, 16, 105.14, App, Visa, 0.15, 1429.9040
+2023-04-20, 2023-06-08, 49, Wine, Touraine Azay - Le - Rideau, 7, 64.66, App, Visa, 0.075, 418.67350
+2023-04-20, 2023-06-14, 55, Corn, Cream Canned, 7, 39.27, Store, Cash, 0.025, 268.01775
+2023-03-15, 2023-05-13, 59, Banana, Green, 1, 125.19, App, Visa, 0.05, 118.9305
+2023-03-26, 2023-05-29, 64, Wine, White Ej, 15, 212.16, App, Visa, 0.10, 2864.1600
+2023-04-14, 2023-06-27, 74, Beer, Fruli, 13, 246.13, App, Visa, 0.11, 2847.7241
+2023-03-26, 2023-04-03, 8, Wine, Casillero Del Diablo, 2, 56.7, App, Visa, 0.065, 106.0290
+2023-03-13, 2023-04-20, 38, Unknown, Whmis Spray Bottle Graduated, 10, 140.94, App, Visa, 0.085, 1289.60100
+2023-04-02, 2023-05-27, 55, Shrimp, 16 - 20 Cooked Peeled, 10, 220.53, Store, Cash, 0.035, 2128.11450
+2023-04-15, 2023-07-09, 85, Water, Mineral Natural, 14, 142.72, Store, Visa, 0.06, 1878.1952
+2023-03-30, 2023-06-22, 84, Versatainer Nc, 8288, 7, 82.05, Store, Cash, 0.025, 559.99125
+2023-05-06, 2023-07-17, 72, Wine, Tribal Sauvignon, 15, 57.09, Store, Visa, 0.05, 813.5325
+2023-04-16, 2023-05-17, 31, Beef, Diced, 12, 210.3, Store, Cash, 0.035, 2435.2740
+2023-05-06, 2023-07-31, 86, Wine, Shiraz South Eastern, 16, 172.34, Store, Cash, 0.075, 2550.63200
+2023-04-07, 2023-06-11, 65, Unknown, Fruit Salad Deluxe, 14, 141.24, App, Visa, 0.11, 1759.8504
+2023-04-06, 2023-05-28, 52, Pepper, Paprika Spanish, 7, 72.15, App, Visa, 0.075, 467.17125
+2023-04-29, 2023-06-07, 39, Squid, Breaded, 6, 2.65, Store, Cash, 0.025, 15.50250
+2023-03-19, 2023-04-29, 41, Beef, Kobe Striploin, 5, 229.73, Store, Cash, 0, 1148.65
+2023-04-28, 2023-07-09, 72, Salmon, Atlantic No Skin, 13, 83.34, Store, Visa, 0.06, 1018.4148
+2023-04-24, 2023-07-09, 76, Juice, Cranberry 341 Ml, 6, 31.89, App, Visa, 0.075, 176.98950
+2023-04-26, 2023-07-02, 67, Skirt, 29 Foot, 7, 6.35, App, Visa, 0.075, 41.11625
+2023-03-17, 2023-04-04, 18, Lamb, Whole Frozen, 9, 240.21, Store, Cash, 0.075, 1999.74825
+2023-04-10, 2023-05-15, 35, Cheese, Havarti Roasted Garlic, 3, 239.62, App, Visa, 0.075, 664.94550
+2023-05-10, 2023-05-15, 5, Cheese, Goat, 14, 65.09, App, Visa, 0.125, 797.35250
+2023-03-27, 2023-04-03, 7, Unknown, Temperature Recording Station, 13, 156.91, Store, Visa, 0.07, 1897.0419
+2023-05-07, 2023-07-04, 58, Blueberries, Frozen, 2, 213.94, Store, Cash, 0, 427.88
+2023-03-18, 2023-05-22, 65, Unknown, Shallots, 4, 245.4, App, Visa, 0.05, 932.520
+2023-05-05, 2023-05-30, 25, Bar Mix, Lemon, 6, 109.11, Store, Visa, 0.075, 605.56050
+2023-04-16, 2023-05-18, 32, Vinegar, Balsamic White, 3, 128.55, Store, Visa, 0.025, 376.00875
+2023-03-28, 2023-05-05, 38, Pepper, Chipotle Canned, 9, 163.06, Store, Visa, 0.05, 1394.1630
+2023-04-22, 2023-05-12, 20, Cheese, Marble, 3, 40.72, Store, Cash, 0.1, 109.944
+2023-04-02, 2023-04-05, 3, Sauce, Ranch Dressing, 5, 138.93, App, Visa, 0.05, 659.9175
+2023-03-17, 2023-05-24, 68, Milk, Chocolate 250 Ml, 1, 138.04, App, Visa, 0.05, 131.1380
+2023-04-11, 2023-04-13, 2, Soup, Base Broth Chix, 9, 226.77, Store, Cash, 0.035, 1969.49745
+2023-03-13, 2023-04-04, 22, Beef, Kindney Whole, 11, 175.49, App, Visa, 0.125, 1689.09125
+2023-05-07, 2023-06-21, 45, Bread, White Sliced, 15, 89.84, Store, Cash, 0, 1347.60
+2023-05-08, 2023-06-03, 26, Wine, Pinot Noir Stoneleigh, 14, 88.48, App, Visa, 0.125, 1083.88000
+2023-03-19, 2023-03-24, 5, Unknown, Soup Campbells Split Pea And Ham, 16, 220.6, Store, Cash, 0.075, 3264.8800
+2023-04-19, 2023-07-17, 89, Pike, Frozen Fillet, 3, 246.97, Store, Cash, 0, 740.91
+2023-05-04, 2023-07-18, 75, Edible Flower, Mixed, 6, 27.77, Store, Visa, 0.05, 158.2890
+2023-04-16, 2023-05-28, 42, Bread, Corn Muffaleta Onion, 12, 54.51, Store, Visa, 0.06, 614.8728
+2023-04-07, 2023-04-20, 13, Ginger, Fresh, 11, 129.22, App, Visa, 0.125, 1243.74250
+2023-03-26, 2023-06-19, 85, Doilies, 7 Paper, 10, 118.43, App, Visa, 0.085, 1083.63450
+2023-05-07, 2023-07-25, 79, Onions, White, 9, 41.21, Store, Cash, 0.025, 361.61775
+2023-04-12, 2023-06-20, 69, Container, Hngd Cll Blk 7x7x3, 14, 115.98, Store, Cash, 0.035, 1566.88980
+2023-05-06, 2023-07-19, 74, Oxtail, Cut, 15, 53.93, Store, Cash, 0, 808.95
+2023-03-17, 2023-03-27, 10, Unknown, Juice Peach Nectar, 15, 236.75, Store, Visa, 0.075, 3284.90625
+2023-04-01, 2023-04-24, 23, Unknown, Lamb Shoulder Boneless Nz, 2, 44.85, Store, Cash, 0.05, 85.2150
+2023-04-02, 2023-05-08, 36, Crab, Claws Snow 16 - 24, 6, 53.38, App, Visa, 0.075, 296.25900
+2023-05-06, 2023-05-21, 15, Muffin, Mix - Mango Sour Cherry, 1, 120.46, Store, Cash, 0.05, 114.4370
+2023-04-16, 2023-05-06, 20, Soup, French Can Pea, 14, 105.55, Store, Visa, 0.085, 1352.09550
+2023-04-06, 2023-06-18, 73, Pepper, Gypsy Pepper, 10, 124.43, App, Visa, 0.085, 1138.53450
+2023-05-08, 2023-07-16, 69, Unknown, Wooden Mop Handle, 17, 221.12, Store, Visa, 0.075, 3477.11200
+2023-04-10, 2023-07-05, 86, Unknown, Chilli Paste Ginger Garlic, 2, 25.07, Store, Cash, 0, 50.14
+2023-03-24, 2023-05-11, 48, Tomatoes, Roma, 14, 65.78, App, Visa, 0.11, 819.6188
+2023-04-18, 2023-04-29, 11, Unknown, Dried Peach, 15, 218.55, Store, Cash, 0.05, 3114.3375
+2023-05-06, 2023-05-15, 9, Unknown, Lumpfish Black, 5, 196.47, App, Visa, 0.07, 913.5855
+2023-05-01, 2023-07-09, 69, Unknown, Lettuce Romaine Chopped, 13, 141.92, Store, Visa, 0.06, 1734.2624
+2023-03-14, 2023-05-06, 53, Danishes, Mini Raspberry, 12, 163.31, Store, Cash, 0.035, 1891.12980
+2023-04-15, 2023-05-15, 30, Crush, Cream Soda, 1, 174.23, App, Visa, 0.05, 165.5185
+2023-04-29, 2023-05-11, 12, Cream, 35%, 10, 105.23, Store, Cash, 0.085, 962.85450
+2023-04-08, 2023-05-14, 36, Unknown, Sauerkraut, 14, 164.65, App, Visa, 0.11, 2051.5390
+2023-04-05, 2023-04-20, 15, Unknown, Cup Translucent 9 Oz, 15, 173.74, App, Visa, 0.125, 2280.33750
+2023-04-08, 2023-05-29, 51, Cheese, Parmesan Grated, 5, 204, Store, Visa, 0.075, 943.500
+2023-04-22, 2023-05-23, 31, Pastry, Mini French Pastries, 5, 128.64, App, Visa, 0.05, 611.0400
+2023-04-26, 2023-05-05, 9, Cape Capensis, Fillet, 7, 36.43, App, Visa, 0.095, 230.78405
+2023-04-21, 2023-06-28, 68, Ocean Spray, Ruby Red, 7, 82.37, Store, Cash, 0.025, 562.17525
+2023-04-23, 2023-07-04, 72, Veal, Insides Grains, 9, 194.02, Store, Cash, 0.025, 1702.52550
+2023-04-03, 2023-04-25, 22, Squid, Breaded, 2, 131.02, Store, Cash, 0.05, 248.9380
+2023-04-01, 2023-05-26, 55, Unknown, Initation Crab Meat, 6, 98.29, Store, Cash, 0.025, 574.99650
+2023-03-30, 2023-05-31, 62, Pate, Liver, 17, 92.53, App, Visa, 0.15, 1337.0585
+2023-05-06, 2023-05-16, 10, Pasta, Penne Rigate Dry, 16, 221.46, Store, Cash, 0.1, 3189.024
+2023-04-07, 2023-06-19, 73, Samosa, Veg, 13, 233.69, Store, Cash, 0.035, 2931.64105
+2023-03-15, 2023-05-11, 57, Trueblue, Blueberry 12x473ml, 9, 72.06, App, Visa, 0.075, 599.89950
+2023-04-17, 2023-04-20, 3, Wine, German Riesling, 13, 248.89, App, Visa, 0.11, 2879.6573
+2023-04-07, 2023-04-16, 9, Unknown, Amarula Cream, 2, 239.54, Store, Cash, 0.045, 457.52140
+2023-04-17, 2023-05-17, 30, Unknown, Pastrami, 3, 35.53, Store, Cash, 0, 106.59
+2023-04-10, 2023-06-28, 79, Blue Curacao, Marie Brizard, 3, 175.6, Store, Cash, 0, 526.8
+2023-03-20, 2023-03-26, 6, Straws, Cocktale, 10, 3.89, Store, Visa, 0.065, 36.37150
+2023-04-12, 2023-04-22, 10, Rabbit, Frozen, 13, 149.54, App, Visa, 0.125, 1701.01750
+2023-04-25, 2023-05-20, 25, Wine, Domaine Boyar Royal, 5, 144.9, Store, Visa, 0.075, 670.1625
+2023-03-24, 2023-04-30, 37, Tomatoes, Roma, 5, 192.52, App, Visa, 0.05, 914.4700
+2023-03-25, 2023-06-16, 83, Pork, Loin Bone - In, 17, 29.49, Store, Visa, 0.075, 463.73025
+2023-04-04, 2023-04-09, 5, Beef, Ox Tongue Pickled, 15, 203.57, Store, Cash, 0.025, 2977.21125
+2023-03-14, 2023-06-02, 80, Cup, Translucent 7 Oz Clear, 3, 42.68, Store, Cash, 0, 128.04
+2023-04-12, 2023-04-29, 17, Unknown, Canadian Emmenthal, 11, 35.42, Store, Visa, 0.085, 356.50230
+2023-04-10, 2023-07-09, 90, Unknown, Propel Sport Drink, 10, 221.83, Store, Cash, 0.035, 2140.65950
+2023-04-26, 2023-05-24, 28, Langers, Mango Nectar, 16, 101.45, App, Visa, 0.15, 1379.7200
+2023-04-07, 2023-05-24, 47, Unknown, Sour Puss Sour Apple, 1, 236.57, App, Visa, 0.05, 224.7415
+2023-04-11, 2023-06-04, 54, Unknown, Pomello, 13, 60.39, Store, Cash, 0.035, 757.59255
+2023-03-27, 2023-05-25, 59, Unknown, Cheese Cloth No 100, 17, 186.2, App, Visa, 0.15, 2690.590
+2023-03-20, 2023-06-01, 73, Bread Base, Italian, 9, 238.44, App, Visa, 0.075, 1985.01300
+2023-05-12, 2023-05-15, 3, Soup, Campbells Lentil, 3, 22.39, App, Visa, 0.05, 63.8115
+2023-03-13, 2023-04-30, 48, Pepper, Black Crushed, 13, 102.37, Store, Cash, 0.035, 1284.23165
+2023-05-04, 2023-05-08, 4, Salt, Seasoned, 6, 24.64, Store, Cash, 0.045, 141.18720
+2023-03-30, 2023-05-17, 48, Cheese, La Sauvagine, 10, 205.46, Store, Cash, 0.085, 1879.95900
+2023-04-10, 2023-05-03, 23, Wine, Pinot Noir Latour, 1, 120.14, Store, Cash, 0.075, 111.12950
+2023-03-14, 2023-06-03, 81, Sprouts, Peppercress, 5, 2.57, App, Visa, 0.05, 12.2075
+2023-03-26, 2023-05-14, 49, Numi, Assorted Teas, 10, 88.54, Store, Cash, 0.035, 854.41100
+2023-03-29, 2023-05-05, 37, Unknown, Sambuca Cream, 12, 75.83, App, Visa, 0.11, 809.8644
+2023-05-08, 2023-06-16, 39, Lemonade, Mandarin 591 Ml, 15, 137.07, Store, Cash, 0, 2056.05
+2023-03-22, 2023-06-19, 89, Melon, Watermelon Seedless, 10, 41.32, Store, Cash, 0.035, 398.73800
+2023-04-24, 2023-05-15, 21, Unknown, Rice Paper, 12, 59.57, App, Visa, 0.125, 625.48500
+2023-04-18, 2023-06-22, 65, Unknown, Fruit Salad Deluxe, 8, 238.06, Store, Visa, 0.05, 1809.2560
+2023-04-20, 2023-06-11, 52, Unknown, Mortadella, 6, 230.36, App, Visa, 0.075, 1278.49800
+2023-03-25, 2023-04-18, 24, Sausage, Meat, 4, 30.89, App, Visa, 0.075, 114.29300
+2023-05-01, 2023-06-01, 31, Wine, Fino Tio Pepe Gonzalez, 9, 131.13, App, Visa, 0.075, 1091.65725
+2023-03-18, 2023-06-16, 90, Cheese, St. Andre, 7, 167.82, App, Visa, 0.1, 1057.266
+2023-03-17, 2023-05-02, 46, Oil, Coconut, 17, 121.19, Store, Visa, 0.075, 1905.71275
+2023-04-08, 2023-06-22, 75, Soup, Campbells Broccoli, 1, 144.03, Store, Visa, 0.025, 140.42925
+2023-04-19, 2023-07-09, 81, Cranberries, Dry, 3, 139.58, Store, Visa, 0.025, 408.27150
+2023-05-11, 2023-06-09, 29, Unknown, Ezy Change Mophandle, 8, 129.63, Store, Cash, 0.075, 959.26200
+2023-05-04, 2023-07-08, 65, Unknown, Gherkin, 8, 37.53, App, Visa, 0.075, 277.72200
+2023-04-17, 2023-04-24, 7, Carbonated Water, Raspberry, 12, 87.07, Store, Cash, 0.07, 971.7012
+2023-04-13, 2023-05-14, 31, Unknown, Cornstarch, 8, 245.26, Store, Cash, 0.025, 1913.02800
+2023-04-19, 2023-06-12, 54, Unknown, Iced Tea Concentrate, 6, 163.04, App, Visa, 0.075, 904.87200
+2023-04-18, 2023-04-24, 6, Pasta, Rotini Colour Dry, 4, 20.13, Store, Cash, 0.03, 78.1044
+2023-04-14, 2023-06-07, 54, Unknown, Sour Puss Raspberry, 8, 38.32, App, Visa, 0.075, 283.56800
+2023-04-24, 2023-05-19, 25, Unknown, Bread Country Roll, 2, 75.17, Store, Cash, 0.05, 142.8230
+2023-03-16, 2023-05-21, 66, Apple, Fuji, 15, 16.35, App, Visa, 0.10, 220.7250
+2023-04-27, 2023-06-07, 41, Soup, Boston Clam Chowder, 6, 148.72, Store, Cash, 0.025, 870.01200
+2023-04-14, 2023-07-08, 85, Trout, Smoked, 4, 143.96, Store, Cash, 0, 575.84
+2023-04-09, 2023-05-21, 42, Beer, Camerons Cream Ale, 10, 57.34, App, Visa, 0.085, 524.66100
+2023-04-25, 2023-06-14, 50, Juice, Orange 341 Ml, 17, 178.63, Store, Cash, 0.05, 2884.8745
+2023-04-09, 2023-06-22, 74, Pike, Frozen Fillet, 2, 119.96, Store, Cash, 0, 239.92
+2023-05-02, 2023-05-05, 3, Crab, Imitation Flakes, 1, 206.65, Store, Cash, 0.015, 203.55025
+2023-03-19, 2023-04-08, 20, Unknown, Bag Clear 10 Lb, 13, 41.04, Store, Cash, 0.085, 488.17080
+2023-05-10, 2023-07-15, 66, Wine, Mas Chicet Rose Vintage, 10, 102.28, Store, Cash, 0.06, 961.4320
+2023-05-04, 2023-06-10, 37, Unknown, Yoghurt Tubes, 17, 150.47, App, Visa, 0.15, 2174.2915
+2023-03-17, 2023-04-19, 33, Milk, Skim, 13, 75.7, Store, Cash, 0.035, 949.6565
+2023-05-03, 2023-05-06, 3, Unknown, Toothpick Frilled, 2, 249.77, App, Visa, 0.05, 474.5630
+2023-04-06, 2023-06-07, 62, Unknown, Table Cloth 120 Round White, 5, 126.5, Store, Cash, 0, 632.5
+2023-04-09, 2023-07-08, 90, Vinegar, Balsamic, 14, 218.9, App, Visa, 0.11, 2727.494
+2023-03-24, 2023-05-10, 47, Unknown, Canadian Emmenthal, 15, 226.6, Store, Visa, 0.025, 3314.0250
+2023-03-16, 2023-05-26, 71, Cookies, Oreo 4 Pack, 2, 167.88, Store, Cash, 0, 335.76
+2023-05-10, 2023-06-08, 29, Wine, Red Cooking, 12, 117.64, Store, Cash, 0.085, 1291.68720
+2023-04-09, 2023-06-16, 68, Appetizer, Asian Shrimp Roll, 12, 16.79, App, Visa, 0.11, 179.3172
+2023-03-30, 2023-06-13, 75, Rum, Cream Amarula, 1, 134.62, Store, Visa, 0.025, 131.25450
+2023-03-15, 2023-03-21, 6, Lettuce, Frisee, 9, 55.73, Store, Cash, 0.055, 473.98365
+2023-04-20, 2023-07-19, 90, Unknown, Broom And Broom Rack White, 6, 104.25, Store, Cash, 0.025, 609.86250
+2023-03-14, 2023-06-05, 83, Squash, Acorn, 11, 128.64, Store, Cash, 0.035, 1365.51360
+2023-04-25, 2023-07-16, 82, Water, Spring Water 355 Ml, 14, 221.91, Store, Cash, 0.035, 2998.00410
+2023-04-02, 2023-05-19, 47, Beans, Black Bean Dry, 17, 27.22, Store, Cash, 0.05, 439.6030
+2023-04-26, 2023-06-09, 44, Gatorade, Orange, 16, 89.79, Store, Cash, 0.05, 1364.8080
+2023-04-13, 2023-05-13, 30, Beer, Labatt Blue, 6, 39.62, Store, Cash, 0.025, 231.77700
+2023-05-08, 2023-07-19, 72, Soup, Campbells Beef Strogonoff, 9, 198.75, Store, Visa, 0.05, 1699.3125
+2023-04-21, 2023-05-08, 17, Pears, Fiorelle, 12, 214.24, Store, Cash, 0.085, 2352.35520
+2023-05-03, 2023-05-20, 17, Pumpkin, Seed, 12, 207.73, Store, Cash, 0.085, 2280.87540
+2023-04-27, 2023-05-20, 23, Cookie Dough, Peanut Butter, 13, 209.91, App, Visa, 0.125, 2387.72625
+2023-04-03, 2023-06-01, 59, Cheese, Le Cheve Noir, 15, 30.15, App, Visa, 0.125, 395.71875
+2023-03-17, 2023-06-07, 82, Unknown, Seaweed Green Sheets, 5, 92.83, Store, Visa, 0.025, 452.54625
+2023-05-01, 2023-05-16, 15, Unknown, Truffle Paste, 13, 56.91, App, Visa, 0.125, 647.35125
+2023-04-24, 2023-06-08, 45, Mcguinness, Blue Curacao, 17, 101.32, Store, Visa, 0.075, 1593.25700
+2023-03-21, 2023-06-18, 89, Sugar, White Packet, 7, 74.82, Store, Cash, 0.025, 510.64650
+2023-03-20, 2023-04-15, 26, Mushroom, Porcini Frozen, 1, 168.44, Store, Cash, 0.05, 160.0180
+2023-04-09, 2023-06-17, 69, Bread, Multigrain Loaf, 1, 26.95, Store, Cash, 0, 26.95
+2023-04-11, 2023-05-25, 44, Wine, Magnotta White, 9, 165.52, App, Visa, 0.075, 1377.95400
+2023-05-04, 2023-05-19, 15, Unknown, Southern Comfort, 12, 209.5, Store, Cash, 0.085, 2300.3100
+2023-04-02, 2023-04-30, 28, Bread Base, Italian, 12, 215.82, Store, Cash, 0.085, 2369.70360
+2023-03-19, 2023-04-23, 35, Wine, Ruffino Chianti, 12, 249, Store, Cash, 0.06, 2808.72
+2023-03-21, 2023-05-25, 65, Rice, 7 Grain Blend, 3, 92.48, Store, Visa, 0.025, 270.50400
+2023-05-09, 2023-06-24, 46, Split Peas, Yellow Dry, 5, 45.82, Store, Cash, 0, 229.10
+2023-04-27, 2023-07-10, 74, Oil, Olive Bertolli, 8, 27.11, Store, Visa, 0.05, 206.0360
+2023-03-26, 2023-04-01, 6, Lamb, Whole Head Off, 16, 43.78, Store, Cash, 0.08, 644.4416
+2023-03-29, 2023-06-22, 85, Basil, Dry Rubbed, 14, 62.45, Store, Cash, 0.035, 843.69950
+2023-05-01, 2023-07-01, 61, Unknown, Kiwi Gold Zespri, 4, 8.94, Store, Cash, 0, 35.76
+2023-04-08, 2023-04-30, 22, Cheese, Marble, 1, 123.76, App, Visa, 0.1, 111.384
+2023-03-21, 2023-05-21, 61, Unknown, Maple Syrup, 10, 94.95, Store, Visa, 0.06, 892.5300
+2023-04-21, 2023-07-09, 79, Mushroom, Shitake Fresh, 8, 142.17, Store, Cash, 0.025, 1108.92600
+2023-04-27, 2023-06-06, 40, Wine, Tio Pepe Sherry Fino, 8, 200.62, Store, Cash, 0.05, 1524.7120
+2023-03-19, 2023-04-14, 26, Bread, Italian Roll With Herbs, 4, 89.82, Store, Cash, 0.05, 341.3160
+2023-03-16, 2023-05-28, 73, Sausage, Meat, 3, 78.98, App, Visa, 0.05, 225.0930
+2023-03-21, 2023-04-14, 24, Cheese, Stilton, 10, 151.5, Store, Cash, 0.1, 1363.50
+2023-03-19, 2023-04-28, 40, Coconut, Whole, 5, 82.22, Store, Visa, 0.025, 400.82250
+2023-05-01, 2023-05-04, 3, Unknown, Sauce Bbq Smokey, 8, 214.28, Store, Cash, 0.04, 1645.6704
+2023-03-21, 2023-04-13, 23, Soup, Campbells Beef Noodle, 4, 37.25, Store, Cash, 0.05, 141.5500
+2023-03-30, 2023-05-22, 53, Pop, Club Soda Can, 7, 44.56, Store, Cash, 0.025, 304.12200
+2023-05-05, 2023-06-22, 48, Vinegar, Balsamic, 3, 69.39, Store, Visa, 0.025, 202.96575
+2023-05-01, 2023-05-27, 26, Soup, Verve - Chipotle Chicken, 12, 110.59, Store, Cash, 0.085, 1214.27820
+2023-05-01, 2023-07-15, 75, Unknown, Wasabi Powder, 1, 150.94, Store, Visa, 0.025, 147.16650
+2023-04-20, 2023-06-18, 59, Beans, Turtle Black Dry, 16, 30.29, Store, Cash, 0.05, 460.4080
+2023-04-25, 2023-07-04, 70, Pastry, Mini French Pastries, 1, 224.65, Store, Cash, 0, 224.65
+2023-04-22, 2023-05-22, 30, Muffin Mix, Oatmeal, 4, 149.11, Store, Cash, 0, 596.44
+2023-04-02, 2023-06-09, 68, Pasta, Cheese / Spinach Bauletti, 10, 8.58, App, Visa, 0.085, 78.50700
+2023-04-24, 2023-05-17, 23, Unknown, 7up Diet 355 Ml, 6, 9.96, Store, Cash, 0.075, 55.27800
+2023-05-06, 2023-06-23, 48, Unknown, Soup Campbells Turkey Veg., 5, 59.82, Store, Cash, 0, 299.10
+2023-03-23, 2023-04-20, 28, Muffin, Zero Transfat, 11, 66.71, App, Visa, 0.325, 495.32175
+2023-04-27, 2023-07-06, 70, Rum, White Gg White, 17, 230.88, Store, Cash, 0.05, 3728.7120
+2023-04-02, 2023-06-05, 64, Arizona, Green Tea, 16, 229.55, Store, Visa, 0.075, 3397.34000
+2023-04-05, 2023-05-06, 31, Tart Shells, Sweet 4, 3, 67.73, Store, Cash, 0, 203.19
+2023-05-02, 2023-05-15, 13, Bread, Malt, 14, 144.88, Store, Cash, 0.085, 1855.91280
+2023-04-03, 2023-04-27, 24, Milk, Buttermilk, 4, 166.99, Store, Cash, 0.05, 634.5620
+2023-04-03, 2023-05-03, 30, Brandy, Orange Mc Guiness, 7, 130.18, App, Visa, 0.075, 842.91550
+2023-04-11, 2023-06-04, 54, Wheat, Soft Kernal Of Wheat, 5, 124.96, Store, Cash, 0, 624.80
+2023-04-04, 2023-04-25, 21, Snails, Large Canned, 14, 24.1, App, Visa, 0.125, 295.2250
+2023-04-11, 2023-05-20, 39, Garbag Bags, Black, 12, 77.24, Store, Visa, 0.06, 871.2672
+2023-03-29, 2023-05-09, 41, Unknown, Persimmons, 5, 136.79, App, Visa, 0.05, 649.7525
+2023-03-14, 2023-04-20, 37, Salmon Atl.whole 8, 10 Lb, 8, 156.61, App, Visa, 0.075, 1158.91400
+2023-03-30, 2023-04-27, 28, Soup, Campbells Mushroom, 7, 109.53, App, Visa, 0.1, 690.039
+2023-04-29, 2023-05-21, 22, Soup, Campbells Cream Of, 4, 112.28, Store, Cash, 0.05, 426.6640
+2023-04-10, 2023-07-08, 89, Unknown, Stainless Steel Cleaner Vision, 16, 189.18, Store, Cash, 0.05, 2875.5360
+2023-05-01, 2023-05-27, 26, Juice, Ocean Spray Cranberry, 7, 166.35, Store, Cash, 0.075, 1077.11625
+2023-03-31, 2023-04-29, 29, Unknown, Beets, 16, 147.22, App, Visa, 0.15, 2002.1920
+2023-04-04, 2023-05-10, 36, Fish, Base Bouillion, 4, 118.02, App, Visa, 0.05, 448.4760
+2023-03-26, 2023-06-02, 68, Bread, Crumbs Bulk, 13, 43.03, App, Visa, 0.11, 497.8571
+2023-03-16, 2023-03-21, 5, Unknown, Sauce Bbq Smokey, 12, 10.45, Store, Visa, 0.06, 117.8760
+2023-03-17, 2023-05-09, 53, Basil, Pesto Sauce, 2, 68.81, App, Visa, 0.05, 130.7390
+2023-04-17, 2023-04-19, 2, Macaroons, Two Bite Choc, 4, 16.93, App, Visa, 0.05, 64.3340
+2023-04-22, 2023-07-07, 76, Unknown, Plaintain, 11, 238.69, Store, Visa, 0.06, 2468.0546
+2023-04-04, 2023-06-12, 69, Unknown, Cookies Almond Hazelnut, 5, 38.24, Store, Visa, 0.025, 186.42000
+2023-04-27, 2023-07-20, 84, Pear, Asian, 14, 243.82, App, Visa, 0.11, 3037.9972
+2023-04-23, 2023-04-30, 7, Unknown, Long Island Ice Tea, 3, 104.64, Store, Visa, 0.06, 295.0848
+2023-03-14, 2023-05-22, 69, Cheese, St. Paulin, 5, 8.91, Store, Cash, 0.05, 42.3225
+2023-04-10, 2023-05-13, 33, Unknown, Plate Pie Foil, 13, 214.06, Store, Visa, 0.06, 2615.8132
+2023-03-22, 2023-05-24, 63, Scallops, 20/30, 14, 202.69, Store, Cash, 0.035, 2738.34190
+2023-04-16, 2023-06-24, 69, Lettuce, Spring Mix, 15, 156.02, Store, Visa, 0.025, 2281.79250
+2023-03-27, 2023-04-06, 10, Rosemary, Dry, 11, 108.69, App, Visa, 0.125, 1046.14125
+2023-04-13, 2023-04-28, 15, Unknown, Chicken Breast Halal, 1, 178.75, Store, Cash, 0.05, 169.8125
+2023-04-01, 2023-05-05, 34, Nescafe, Frothy French Vanilla, 12, 39.98, Store, Cash, 0.035, 462.96840
+2023-03-18, 2023-03-30, 12, Bread, Raisin Walnut Oval, 5, 137.17, Store, Cash, 0.05, 651.5575
+2023-04-13, 2023-04-24, 11, Unknown, Kahlua, 7, 46.35, App, Visa, 0.1, 292.005
+2023-04-07, 2023-04-09, 2, Bread, Roll Soft White Round, 7, 196.49, Store, Cash, 0.035, 1327.28995
+2023-04-14, 2023-06-20, 67, Unknown, 7up Diet 355 Ml, 15, 123.85, Store, Cash, 0, 1857.75
+2023-03-21, 2023-03-30, 9, Chinese Foods, Plain Fried Rice, 16, 227.83, Store, Cash, 0.095, 3298.97840
+2023-04-10, 2023-06-20, 71, Chicken, Whole, 15, 2.58, Store, Cash, 0, 38.70
+2023-04-17, 2023-06-08, 52, Unknown, Goldschalger, 1, 210.04, Store, Cash, 0, 210.04
+2023-04-11, 2023-05-31, 50, Unknown, External Supplier, 5, 142.72, Store, Cash, 0, 713.60
+2023-04-02, 2023-06-04, 63, Wine, Coteaux Du Tricastin Ac, 14, 150.4, App, Visa, 0.11, 1873.984
+2023-03-19, 2023-05-26, 68, Unknown, Vol Au Vents, 1, 182.95, Store, Cash, 0, 182.95
+2023-04-30, 2023-05-18, 18, Mushrooms, Honey, 15, 129.55, Store, Cash, 0.05, 1846.0875
+2023-05-08, 2023-07-15, 68, Unknown, Tomatoes Tear Drop Yellow, 12, 157.22, Store, Visa, 0.06, 1773.4416
+2023-04-24, 2023-06-18, 55, Nut, Pecan Halves, 14, 153.77, Store, Cash, 0.035, 2077.43270
+2023-03-25, 2023-04-15, 21, Unknown, Yoplait Drink, 4, 104.59, App, Visa, 0.075, 386.98300
+2023-04-01, 2023-06-16, 76, Wine, Magnotta - Cab Franc, 1, 130.59, App, Visa, 0.05, 124.0605
+2023-04-18, 2023-05-03, 15, Goat, Whole Cut, 1, 151.8, Store, Cash, 0.05, 144.210
+2023-04-01, 2023-06-09, 69, Oil, Pumpkinseed, 1, 237.3, Store, Cash, 0, 237.3
+2023-04-13, 2023-05-19, 36, Unknown, Cookie Trail Mix, 14, 172.88, Store, Cash, 0.035, 2335.60880
+2023-04-25, 2023-05-20, 25, Veal, Bones, 5, 138.77, App, Visa, 0.075, 641.81125
+2023-05-01, 2023-06-15, 45, Unknown, Goulash Seasoning, 15, 164.89, App, Visa, 0.10, 2226.0150
+2023-04-27, 2023-07-24, 88, Buffalo, Striploin, 2, 101.45, Store, Visa, 0.025, 197.82750
+2023-04-29, 2023-06-30, 62, Juice, Lagoon Mango, 13, 234.01, Store, Cash, 0.035, 2935.65545
+2023-03-30, 2023-04-05, 6, Milk, Chocolate 250 Ml, 12, 133.88, App, Visa, 0.11, 1429.8384
+2023-05-10, 2023-07-19, 70, Flower, Leather Leaf Fern, 10, 245.38, Store, Visa, 0.06, 2306.5720
+2023-04-04, 2023-04-28, 24, Fish, Soup Base Bouillon, 9, 95.57, App, Visa, 0.1, 774.117
+2023-05-12, 2023-07-08, 57, Unknown, Silicone Paper 16.5x24, 11, 145.99, App, Visa, 0.11, 1429.2421
+2023-05-12, 2023-07-11, 60, Unknown, Red Currants, 17, 208.22, Store, Visa, 0.075, 3274.25950
+2023-05-01, 2023-05-14, 13, Lamb, Shanks, 14, 205.98, App, Visa, 0.125, 2523.25500
+2023-03-17, 2023-04-16, 30, Coriander, Seed, 15, 60.88, Store, Visa, 0.025, 890.37000
+2023-03-24, 2023-05-28, 65, Pepper, Sorrano, 7, 198.13, Store, Cash, 0.025, 1352.23725
+2023-03-30, 2023-05-22, 53, Ecolab, Hobart Upr Prewash Arm, 16, 11.52, Store, Cash, 0.05, 175.1040
+2023-04-17, 2023-06-11, 55, Oil, Coconut, 13, 227.47, Store, Cash, 0.035, 2853.61115
+2023-04-14, 2023-04-17, 3, Juice, Orange 1.89l, 16, 246.62, Store, Visa, 0.075, 3649.97600
+2023-04-03, 2023-04-12, 9, Fennel, Seeds, 10, 25.65, Store, Cash, 0.08, 235.9800
+2023-03-22, 2023-05-15, 54, Lotus Rootlets, Canned, 17, 11.33, Store, Cash, 0.05, 182.9795
+2023-03-21, 2023-05-13, 53, Chocolate, Chips Compound, 9, 2.21, Store, Visa, 0.05, 18.8955
+2023-05-08, 2023-07-14, 67, Bagel, Everything, 14, 14, Store, Cash, 0.035, 189.140
+2023-03-23, 2023-05-08, 46, Beef, Sushi Flat Iron Steak, 3, 165, Store, Visa, 0.275, 358.875
+2023-04-08, 2023-05-20, 42, Cheese, Colby, 2, 178.87, App, Visa, 0.075, 330.90950
+2023-03-27, 2023-04-23, 27, Bagel, Sesame Seed Presliced, 14, 56.25, Store, Cash, 0.085, 720.56250
+2023-04-03, 2023-04-16, 13, Tomatoes, Cherry, 15, 149.69, App, Visa, 0.125, 1964.68125
+2023-03-26, 2023-05-19, 54, Pastry, Banana Muffin - Mini, 4, 113.46, Store, Visa, 0.025, 442.49400
+2023-03-23, 2023-06-10, 79, Cheese, Cream Cheese, 9, 76.68, Store, Cash, 0.3, 483.084
+2023-04-18, 2023-06-29, 72, Unknown, Pork Casing, 2, 18.75, App, Visa, 0.05, 35.6250
+2023-04-05, 2023-06-08, 64, Wine, Puligny Montrachet A., 2, 99.6, App, Visa, 0.05, 189.240
+2023-04-29, 2023-05-14, 15, Soup, Clam Chowder Dry Mix, 17, 93.42, App, Visa, 0.15, 1349.9190
+2023-03-20, 2023-05-28, 69, Pork, Smoked Kassler, 15, 3.52, Store, Cash, 0, 52.80
+2023-04-23, 2023-07-09, 77, Unknown, Cardamon Ground, 3, 117.79, App, Visa, 0.05, 335.7015
+2023-05-12, 2023-05-16, 4, Island Oasis, Lemonade, 7, 30.26, App, Visa, 0.075, 195.93350
+2023-04-21, 2023-04-26, 5, Coffee Beans, Chocolate, 9, 19.46, App, Visa, 0.075, 162.00450
+2023-03-21, 2023-06-04, 75, Unknown, Glucose, 11, 60.92, App, Visa, 0.11, 596.4068
+2023-04-20, 2023-05-13, 23, Beef, Tongue Cooked, 15, 13.78, Store, Visa, 0.075, 191.19750
+2023-03-25, 2023-05-15, 51, Unknown, Table Cloth 62x120 Colour, 17, 26.57, App, Visa, 0.15, 383.9365
+2023-03-31, 2023-05-15, 45, Gatorade, Orange, 4, 154.15, Store, Cash, 0, 616.60
+2023-05-07, 2023-07-31, 85, Pasta, Lasagna Dry, 7, 80.81, Store, Cash, 0.025, 551.52825
+2023-04-19, 2023-05-03, 14, Soup, Cream Of Broccoli, 15, 162.26, Store, Visa, 0.075, 2251.35750
+2023-04-06, 2023-07-05, 90, Sambuca, Ramazzotti, 11, 191.82, App, Visa, 0.11, 1877.9178
+2023-04-28, 2023-06-16, 49, Wine, Kwv Chenin Blanc South, 10, 8.87, App, Visa, 0.085, 81.16050
+2023-04-06, 2023-04-16, 10, Wine, Manischewitz Concord, 1, 5.39, App, Visa, 0.075, 4.98575
+2023-05-02, 2023-06-18, 47, Cookie Dough, Double, 11, 169.19, Store, Cash, 0.035, 1795.95185
+2023-05-03, 2023-05-09, 6, Beef, Bresaola, 6, 91.29, App, Visa, 0.08, 503.9208
+2023-04-13, 2023-06-22, 70, Unknown, Smoked Paprika, 1, 202.23, App, Visa, 0.05, 192.1185
+2023-04-22, 2023-07-07, 76, Puree, Blackcurrant, 15, 10.48, Store, Cash, 0, 157.20
+2023-05-03, 2023-06-19, 47, Pepper, Chillies Crushed, 17, 72.58, App, Visa, 0.15, 1048.7810
+2023-04-22, 2023-06-21, 60, Tea, English Breakfast, 16, 6.63, Store, Visa, 0.075, 98.12400
+2023-04-23, 2023-07-04, 72, Mustard, Individual Pkg, 7, 198.68, App, Visa, 0.075, 1286.45300
+2023-04-01, 2023-05-25, 54, Cheese, Goat, 5, 213.05, Store, Cash, 0.05, 1011.9875
+2023-04-25, 2023-05-25, 30, Unknown, Swiss Chard, 1, 242.97, Store, Cash, 0, 242.97
+2023-03-26, 2023-04-22, 27, Juice, Apple 284ml, 17, 30.02, Store, Cash, 0.1, 459.306
+2023-04-08, 2023-05-15, 37, Dip, Tapenade, 15, 188.33, App, Visa, 0.10, 2542.4550
+2023-04-18, 2023-05-06, 18, Horseradish, Prepared, 6, 164.86, App, Visa, 0.1, 890.244
+2023-04-27, 2023-07-12, 76, Bar Mix, Pina Colada 355 Ml, 15, 86.4, App, Visa, 0.10, 1166.400
+2023-03-22, 2023-06-08, 78, Wine, White Riesling Semi - Dry, 1, 102.32, App, Visa, 0.05, 97.2040
+2023-03-25, 2023-06-20, 87, Chicken, Leg / Back Attach, 7, 38.09, Store, Visa, 0.05, 253.2985
+2023-05-07, 2023-06-01, 25, Radish, Pickled, 16, 243.4, Store, Visa, 0.1, 3504.96
+2023-03-23, 2023-04-06, 14, Mushroom, Chantrelle Fresh, 5, 19.92, App, Visa, 0.3, 69.720
+2023-04-11, 2023-07-01, 81, Chicken, White Meat With Tender, 9, 69.71, App, Visa, 0.075, 580.33575
+2023-04-21, 2023-07-10, 80, Shrimp, Black Tiger 13/15, 17, 101.43, Store, Cash, 0.05, 1638.0945
+2023-04-14, 2023-05-27, 43, Food Colouring, Pink, 4, 91.88, Store, Cash, 0, 367.52
+2023-04-27, 2023-06-15, 49, Chicken, Breast 5 - 7 Oz, 15, 192.27, Store, Cash, 0, 2884.05
+2023-03-24, 2023-05-27, 64, Unknown, Blueberries, 3, 16.26, Store, Cash, 0, 48.78
+2023-04-25, 2023-05-27, 32, Wine, Charddonnay Errazuriz, 12, 109.45, App, Visa, 0.11, 1168.9260
+2023-04-24, 2023-06-18, 55, Veal, Round Eye Of, 17, 206.63, App, Visa, 0.15, 2985.8035
+2023-04-27, 2023-07-02, 66, Veal, Leg, 3, 152.74, App, Visa, 0.05, 435.3090
+2023-03-31, 2023-05-09, 39, Gin, Gilbeys London Dry, 4, 234.71, Store, Visa, 0.025, 915.36900
+2023-04-14, 2023-06-04, 51, Creme De Banane, Marie, 1, 9.05, App, Visa, 0.05, 8.5975
