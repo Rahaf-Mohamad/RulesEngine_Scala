@@ -29,6 +29,14 @@ Processed orders are stored in an Oracle database, enabling data persistence and
 ### Input and Output Flexibility
 
 Orders are read from a CSV file, and processed orders are saved to both a database and a CSV file, offering flexibility in data handling.
+## Prerequisites
+
+Before running Discount Calculator, ensure you have the following prerequisites installed:
+
+- **Oracle JDBC Driver**
+- **Oracle Database** (e.g., Oracle XE)
+- **Scala** (2.11 or later)
+- **SBT** (Scala Build Tool)
 
 ## Usage
 
